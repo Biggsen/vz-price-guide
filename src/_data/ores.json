@@ -4,7 +4,7 @@
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d6/Coal_Ore_JE2_BE2.png",
         "name": "coal ore",
         "url": "https://minecraft.gamepedia.com/Coal_Ore",
-        "price": "16",
+        "price": "28",
         "stack": "64"
     },
     {
@@ -16,11 +16,83 @@
         "stack": "64"
     },
     {
-        "material_id": "block_of_coal",
+        "material_id": "coal_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Block_of_Coal_JE3_BE2.png",
         "name": "block of coal",
         "url": "https://minecraft.gamepedia.com/Block_of_Coal",
         "price": "72",
+        "stack": "64"
+    },
+    {
+        "material_id": "iron_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/88/Iron_Ore_JE2_BE2.png",
+        "name": "iron ore",
+        "url": "https://minecraft.gamepedia.com/Iron_Ore",
+        "price": "18",
+        "stack": "64"
+    },
+    {
+        "material_id": "iron_ingot",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Iron_Ingot_JE3_BE2.png",
+        "name": "iron ingot",
+        "url": "https://minecraft.gamepedia.com/Iron_Ingot",
+        "price": "20",
+        "stack": "64"
+    },
+    {
+        "material_id": "iron_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Block_of_Iron_JE4_BE3.png",
+        "name": "block of iron",
+        "url": "https://minecraft.gamepedia.com/Block_of_Iron",
+        "price": "180",
+        "stack": "64"
+    },
+    {
+        "material_id": "gold_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b9/Gold_Ore_JE3_BE2.png",
+        "name": "gold ore",
+        "url": "https://minecraft.gamepedia.com/Gold_Ore",
+        "price": "48",
+        "stack": "64"
+    },
+    {
+        "material_id": "gold_ingot",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8a/Gold_Ingot_JE4_BE2.png",
+        "name": "gold ingot",
+        "url": "https://minecraft.gamepedia.com/Gold_Ingot",
+        "price": "50",
+        "stack": "64"
+    },
+    {
+        "material_id": "gold_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Block_of_Gold_JE6_BE3.png",
+        "name": "block of gold",
+        "url": "https://minecraft.gamepedia.com/Block_of_Gold",
+        "price": "450",
+        "stack": "64"
+    },
+    {
+        "material_id": "diamond_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b5/Diamond_Ore_JE3_BE3.png",
+        "name": "diamond ore",
+        "url": "https://minecraft.gamepedia.com/Diamond_Ore",
+        "price": "875",
+        "stack": "64"
+    },
+    {
+        "material_id": "diamond",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_JE3_BE3.png",
+        "name": "diamond",
+        "url": "https://minecraft.gamepedia.com/Diamond",
+        "price": "250",
+        "stack": "64"
+    },
+    {
+        "material_id": "diamond_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6b/Block_of_Diamond_JE6_BE3.png",
+        "name": "block of diamond",
+        "url": "https://minecraft.gamepedia.com/Block_of_Diamond",
+        "price": "2250",
         "stack": "64"
     }
 ]
