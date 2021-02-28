@@ -1,0 +1,23 @@
+{
+  "name": "vz-price-guide",
+  "version": "1.0.0",
+  "description": "verzion economic price guide for Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biggsen/vz-price-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biggsen/vz-price-guide/issues"
+  },
+  "homepage": "https://github.com/Biggsen/vz-price-guide#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
