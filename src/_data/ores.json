@@ -1,14 +1,26 @@
 [
     {
+        "material_id": "coal_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d6/Coal_Ore_JE2_BE2.png",
+        "name": "coal ore",
+        "url": "https://minecraft.gamepedia.com/Coal_Ore",
+        "price": "16",
+        "stack": "64"
+    },
+    {
         "material_id": "coal",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/58/Coal_JE4_BE3.png",
         "name": "coal",
-        "price": "8"
+        "url": "https://minecraft.gamepedia.com/Coal",
+        "price": "8",
+        "stack": "64"
     },
     {
         "material_id": "block_of_coal",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Block_of_Coal_JE3_BE2.png",
         "name": "block of coal",
-        "price": "2"
+        "url": "https://minecraft.gamepedia.com/Block_of_Coal",
+        "price": "72",
+        "stack": "64"
     }
 ]
