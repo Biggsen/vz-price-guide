@@ -1,5 +1,12 @@
 ---
 title: verzion economy price guide for Minecraft
+colorA1: '#f6c857'
+colorA2: '#f49b40'
+colorA3: '#e7501d'
+colorB1: '#a7c3a0'
+colorB2: '#789472'
+colorB3: '#49584b'
+colorB4: '#242c25'
 ---
 
 <!DOCTYPE html>
@@ -9,21 +16,45 @@ title: verzion economy price guide for Minecraft
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
     <style>
+        .hidden {
+            display: none;
+        }
+        .text-center {
+            text-align: center;
+        }
         body {
-            font-family: verdana, sans-serif;
+            font-family: helvetica, sans-serif;
         }
         table {
             width: 100%;
             max-width: 800px;
             border-collapse: collapse;
         }
+        thead th {
+            background: {{ colorB3 }};
+            color: {{ colorB1 }};
+        }
+        td:first-child {
+            background: {{ colorB2 }};
+        }
         td,th {
+            background: {{ colorB1 }};
             padding: 3px 8px;
-            border: 1px solid black;
+            border: 2px solid white;
         }
 
         td img {
-            max-width: 30px;
+            max-width: 40px;
+            display: block;
+        }
+        td a {
+            color: {{ colorB4 }};
+            text-decoration: none;
+        }
+
+        td a:hover {
+            color: {{ colorB3 }};
+            text-decoration: underline;
         }
     </style>
 </head>
