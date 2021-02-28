@@ -2,3 +2,29 @@
 layout: base.njk
 ---
 <h1>Economy Price Guide</h1>
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Material ID</th>
+            <th rowspan="2"></th>
+            <th rowspan="2">Ores</th>
+            <th colspan="2">Unit Price</th>
+        </tr>
+        <tr>
+            <th>Buy</th>
+            <th>Sell</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for item in ores %}
+        <tr>
+            <td>{{ item.material_id }}</td>
+            <td><img src="{{ item.image }}" alt=""></td>
+            <td width="50%">{{ item.name }}</td>
+            <td>{{ item.price }}</td>
+            {% set sellPrice = item.price * 0.3 %}
+            <td>{{ sellPrice | float }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
