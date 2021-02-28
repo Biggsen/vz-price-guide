@@ -1,5 +1,7 @@
 ---
 layout: base.njk
+priceMultiplier: 1
+sellMargin: 0.30
 ---
 <h1>Economy Price Guide</h1>
 <table>
@@ -9,8 +11,11 @@ layout: base.njk
             <th rowspan="2"></th>
             <th rowspan="2">Ores</th>
             <th colspan="2">Unit Price</th>
+            <th colspan="2">Stack Price</th>
         </tr>
         <tr>
+            <th>Buy</th>
+            <th>Sell</th>
             <th>Buy</th>
             <th>Sell</th>
         </tr>
@@ -18,12 +23,17 @@ layout: base.njk
     <tbody>
     {% for item in ores %}
         <tr>
+            {% set buyUnitPrice = item.price * priceMultiplier %}
+            {% set sellUnitPrice = item.price * sellMargin * priceMultiplier %}
+            {% set buyStackPrice = item.price * item.stack * priceMultiplier %}
+            {% set sellStackPrice = item.price * item.stack * sellMargin * priceMultiplier %}
             <td>{{ item.material_id }}</td>
             <td><img src="{{ item.image }}" alt=""></td>
-            <td width="50%">{{ item.name }}</td>
-            <td>{{ item.price }}</td>
-            {% set sellPrice = item.price * 0.3 %}
-            <td>{{ sellPrice | float }}</td>
+            <td width="50%"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></td>
+            <td>{{ buyUnitPrice | round }}</td>
+            <td>{{ sellUnitPrice | round }}</td>
+            <td>{{ buyStackPrice | round }}</td>
+            <td>{{ sellStackPrice | round }}</td>
         </tr>
     {% endfor %}
     </tbody>
