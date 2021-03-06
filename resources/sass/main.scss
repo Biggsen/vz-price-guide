@@ -1,0 +1,82 @@
+$colorA1: #f6c857;
+$colorA2: #f49b40;
+$colorA3: #e7501d;
+$colorB1: #a7c3a0;
+$colorB2: #789472;
+$colorB3: #49584b;
+$colorB4: #242c25;
+
+.hidden {
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    font-family: helvetica, sans-serif;
+}
+table {
+    width: 100%;
+    max-width: 800px;
+    border-collapse: collapse;
+}
+caption {
+    background: $colorB3;
+    color: $colorB1;
+    padding: 16px 8px;
+    font-weight: bold;
+    border: 2px solid white;
+    border-bottom: 0;
+}
+thead th {
+    background: $colorB3;
+    color: $colorB1;
+}
+tbody th {
+    text-align: left;
+}
+td:first-child {
+    background: $colorB2;
+}
+td,th {
+    background: $colorB1;
+    padding: 3px 8px;
+    border: 2px solid white;
+}
+
+td img {
+    max-width: 50px;
+    display: block;
+}
+td a, th a {
+    color: $colorB4;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+td a:hover, th a:hover {
+    color: $colorB3;
+    text-decoration: underline;
+}
+
+.header {
+    box-sizing: border-box;
+    max-width: 800px;
+    background: $colorB3;
+    padding: 10px 40px;
+    color: white;
+    border: 2px solid white;
+    text-shadow: 2px 2px 2px black;
+    h1 {
+
+    }
+}
+
+.pattern {
+    background-image: repeating-linear-gradient(-45deg,
+        $colorB2 0,
+        $colorB2 1px,
+        transparent 0,
+        transparent 12.75px);
+    background-size: 18px 18px;
+}
