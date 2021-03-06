@@ -7,7 +7,8 @@
     "watch:eleventy": "npx @11ty/eleventy --serve",
     "watch:sass": "npm run sass -- --watch",
     "sass": "sass --style=compressed resources/sass/main.scss css/main.css",
-    "start": "npm-run-all sass --parallel watch:*"
+    "start": "npm-run-all sass --parallel watch:*",
+    "production": "npm run sass & npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
