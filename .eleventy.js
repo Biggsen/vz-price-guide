@@ -1,5 +1,10 @@
 module.exports = eleventyConfig => {
+
+    // Include our static assets
+    eleventyConfig.addPassthroughCopy("css")
+
     return {
+        passthroughFileCopy: true,
         dir: {
             input: 'src',
             output: 'dist',
