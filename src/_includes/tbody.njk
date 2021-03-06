@@ -1,0 +1,17 @@
+<tr>
+      {% set buyUnitPrice = item.price * priceMultiplier %}
+      {% set sellUnitPrice = item.price * sellMargin * priceMultiplier %}
+      {% set buyStackPrice = item.price * item.stack * priceMultiplier %}
+      {% set sellStackPrice = item.price * item.stack * sellMargin * priceMultiplier %}
+      <td class="hidden">{{ item.material_id }}</td>
+      <th width="50%"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></th>
+      <td class="text-center" width="5%"><img src="{{ item.image }}" alt=""></td>
+      <td class="text-center">{{ buyUnitPrice | round }}</td>
+      {% if sellUnitPrice < 0.8 %}
+          <td class="text-center">{{ sellUnitPrice | round(2) }}</td>
+      {% else %}
+          <td class="text-center">{{ sellUnitPrice | round }}</td>
+      {% endif %}
+      <td class="text-center">{{ buyStackPrice | round }}</td>
+      <td class="text-center">{{ sellStackPrice | round }}</td>
+</tr>

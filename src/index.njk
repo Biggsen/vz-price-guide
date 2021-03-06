@@ -5,36 +5,20 @@ sellMargin: 0.30
 ---
 <h1>Economy Price Guide</h1>
 <table>
-    <thead>
-        <tr>
-            <th rowspan="2" class="hidden">Material ID</th>
-            <th rowspan="2">Ores</th>
-            <th rowspan="2"></th>
-            <th colspan="2">Unit Price</th>
-            <th colspan="2">Stack Price</th>
-        </tr>
-        <tr>
-            <th>Buy</th>
-            <th>Sell</th>
-            <th>Buy</th>
-            <th>Sell</th>
-        </tr>
-    </thead>
+    <caption>Ores / Minerals</caption>
+    {% include "thead.njk" %}
     <tbody>
     {% for item in ores %}
-        <tr>
-            {% set buyUnitPrice = item.price * priceMultiplier %}
-            {% set sellUnitPrice = item.price * sellMargin * priceMultiplier %}
-            {% set buyStackPrice = item.price * item.stack * priceMultiplier %}
-            {% set sellStackPrice = item.price * item.stack * sellMargin * priceMultiplier %}
-            <td class="hidden">{{ item.material_id }}</td>
-            <td width="50%"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></td>
-            <td class="text-center"><img src="{{ item.image }}" alt=""></td>
-            <td class="text-center">{{ buyUnitPrice | round }}</td>
-            <td class="text-center">{{ sellUnitPrice | round }}</td>
-            <td class="text-center">{{ buyStackPrice | round }}</td>
-            <td class="text-center">{{ sellStackPrice | round }}</td>
-        </tr>
+        {% include "tbody.njk" %}
+    {% endfor %}
+    </tbody>
+</table>
+<table>
+    <caption>Stone</caption>
+    {% include "thead.njk" %}
+    <tbody>
+    {% for item in stone %}
+        {% include "tbody.njk" %}
     {% endfor %}
     </tbody>
 </table>
