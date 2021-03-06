@@ -30,9 +30,20 @@ colorB4: '#242c25'
             max-width: 800px;
             border-collapse: collapse;
         }
+        caption {
+            background: {{ colorB3 }};
+            color: {{ colorB1 }};
+            padding: 16px 8px;
+            font-weight: bold;
+            border: 2px solid white;
+            border-bottom: 0;
+        }
         thead th {
             background: {{ colorB3 }};
             color: {{ colorB1 }};
+        }
+        tbody th {
+            text-align: left;
         }
         td:first-child {
             background: {{ colorB2 }};
@@ -44,15 +55,16 @@ colorB4: '#242c25'
         }
 
         td img {
-            max-width: 40px;
+            max-width: 50px;
             display: block;
         }
-        td a {
+        td a, th a {
             color: {{ colorB4 }};
             text-decoration: none;
+            font-weight: normal;
         }
 
-        td a:hover {
+        td a:hover, th a:hover {
             color: {{ colorB3 }};
             text-decoration: underline;
         }
