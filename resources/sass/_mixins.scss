@@ -1,0 +1,13 @@
+/* Media Query Mixin */
+
+@mixin mq($way, $value1, $value2: 0){
+    @if $way == up{
+        @media only screen and (min-width:$value1 + 1){@content;}
+    }
+    @if $way == down{
+        @media only screen and (max-width:$value1){@content;}
+    }
+    @if $way == range{
+        @media only screen and (min-width:$value1 + 1) and (max-width:$value2){@content;}
+    }
+}
