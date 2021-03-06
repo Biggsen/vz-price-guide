@@ -1,0 +1,243 @@
+[
+    {
+        "material_id": "cobblestone",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6a/Cobblestone_JE6_BE3.png",
+        "name": "cobblestone",
+        "url": "https://minecraft.gamepedia.com/Cobblestone",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "cobblestone_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f5/Cobblestone_Slab_JE4_BE3.png",
+        "name": "cobblestone slab",
+        "url": "https://minecraft.gamepedia.com/Cobblestone_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "cobblestone_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/94/Cobblestone_Stairs_%28N%29_JE6_BE6.png",
+        "name": "cobblestone stairs",
+        "url": "https://minecraft.gamepedia.com/Cobblestone_Stairs",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "cobblestone_wall",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Cobblestone_Wall_JE2_BE2.png",
+        "name": "cobblestone wall",
+        "url": "https://minecraft.gamepedia.com/Cobblestone_Wall",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "stone",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/29/Stone_JE4_BE3.png",
+        "name": "stone",
+        "url": "https://minecraft.gamepedia.com/Stone",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "stone_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Stone_Slab_JE2_BE1.png",
+        "name": "stone slab",
+        "url": "https://minecraft.gamepedia.com/Stone_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "stone_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5c/Stone_Stairs_%28N%29_JE2_BE2.png",
+        "name": "stone stairs",
+        "url": "https://minecraft.gamepedia.com/Stone_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "smooth_stone",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/Smooth_Stone_JE2_BE2.png",
+        "name": "smooth stone",
+        "url": "https://minecraft.gamepedia.com/Smooth_Stone",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "smooth_stone_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/Smooth_Stone_Slab_JE2_BE2.png",
+        "name": "smooth stone slab",
+        "url": "https://minecraft.gamepedia.com/Smooth_Stone_Slab",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "andesite",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/28/Andesite_JE3_BE2.png",
+        "name": "andesite",
+        "url": "https://minecraft.gamepedia.com/Andesite",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "andesite_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/77/Andesite_Slab_JE2_BE2.png",
+        "name": "andesite slab",
+        "url": "https://minecraft.gamepedia.com/Andesite_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "andesite_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Andesite_Stairs_%28N%29_JE2_BE1.png",
+        "name": "andesite stairs",
+        "url": "https://minecraft.gamepedia.com/Andesite_Stairs",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "andesite_wall",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4b/Andesite_Wall_JE2_BE1.png",
+        "name": "andesite wall",
+        "url": "https://minecraft.gamepedia.com/Andesite_Wall",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_andesite",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/21/Polished_Andesite_JE2_BE2.png",
+        "name": "polished andesite",
+        "url": "https://minecraft.gamepedia.com/Polished_Andesite",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_andesite_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Polished_Andesite_Slab_JE2_BE2.png",
+        "name": "polished andesite slab",
+        "url": "https://minecraft.gamepedia.com/Polished_Andesite_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_andesite_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0d/Polished_Andesite_Stairs_%28N%29_JE2_BE1.png",
+        "name": "polished andesite stairs",
+        "url": "https://minecraft.gamepedia.com/Polished_Andesite_Stairs",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "diorite",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d7/Diorite_JE4_BE3.png",
+        "name": "diorite",
+        "url": "https://minecraft.gamepedia.com/Diorite",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "diorite_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9f/Diorite_Slab_JE3_BE2.png",
+        "name": "diorite slab",
+        "url": "https://minecraft.gamepedia.com/Diorite_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "diorite_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9a/Diorite_Stairs_%28N%29_JE3_BE2.png",
+        "name": "diorite stairs",
+        "url": "https://minecraft.gamepedia.com/Diorite_Stairs",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "diorite_wall",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a4/Diorite_Wall_JE3_BE1.png",
+        "name": "diorite wall",
+        "url": "https://minecraft.gamepedia.com/Diorite_Wall",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_diorite",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a8/Polished_Diorite_JE2_BE2.png",
+        "name": "polished diorite",
+        "url": "https://minecraft.gamepedia.com/Polished_Diorite",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_diorite_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/af/Polished_Diorite_Slab_JE2_BE2.png",
+        "name": "polished diorite slab",
+        "url": "https://minecraft.gamepedia.com/Polished_Diorite_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_diorite_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/06/Polished_Diorite_Stairs_%28N%29_JE2_BE2.png",
+        "name": "polished diorite stairs",
+        "url": "https://minecraft.gamepedia.com/Polished_Diorite_Stairs",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "granite",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Granite_JE2_BE2.png",
+        "name": "granite",
+        "url": "https://minecraft.gamepedia.com/Granite",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "granite_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cd/Granite_Slab_JE1_BE1.png",
+        "name": "granite slab",
+        "url": "https://minecraft.gamepedia.com/Granite_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "granite_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Granite_Stairs_%28N%29_JE1_BE1.png",
+        "name": "granite stairs",
+        "url": "https://minecraft.gamepedia.com/Granite_Stairs",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "granite_wall",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/59/Granite_Wall_JE1_BE1.png",
+        "name": "granite wall",
+        "url": "https://minecraft.gamepedia.com/Granite_Wall",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_granite",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c5/Polished_Granite_JE2_BE2.png",
+        "name": "polished granite",
+        "url": "https://minecraft.gamepedia.com/Polished_Granite",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_granite_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/39/Polished_Granite_Slab_JE1_BE1.png",
+        "name": "polished granite slab",
+        "url": "https://minecraft.gamepedia.com/Polished_Granite_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "polished_granite_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/35/Polished_Granite_Stairs_%28N%29_JE1_BE1.png",
+        "name": "polished granite stairs",
+        "url": "https://minecraft.gamepedia.com/Polished_Granite_Stairs",
+        "price": "2",
+        "stack": "64"
+    }
+
+]

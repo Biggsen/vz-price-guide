@@ -1,5 +1,29 @@
 [
     {
+        "material_id": "redstone_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Redstone_Ore_JE2_BE2.png",
+        "name": "redstone ore",
+        "url": "https://minecraft.gamepedia.com/Redstone_Ore",
+        "price": "30",
+        "stack": "64"
+    },
+    {
+        "material_id": "redstone",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e1/Redstone_Dust_JE2_BE2.png",
+        "name": "redstone dust",
+        "url": "https://minecraft.gamepedia.com/Redstone_Dust",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "redstone_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Block_of_Redstone_JE2_BE2.png",
+        "name": "block of redstone",
+        "url": "https://minecraft.gamepedia.com/Block_of_Redstone",
+        "price": "27",
+        "stack": "64"
+    },
+    {
         "material_id": "coal_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d6/Coal_Ore_JE2_BE2.png",
         "name": "coal ore",
@@ -21,6 +45,30 @@
         "name": "block of coal",
         "url": "https://minecraft.gamepedia.com/Block_of_Coal",
         "price": "72",
+        "stack": "64"
+    },
+    {
+        "material_id": "lapis_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ce/Lapis_Lazuli_Ore_JE2_BE2.png",
+        "name": "lapis ore",
+        "url": "https://minecraft.gamepedia.com/Lapis_Lazuli_Ore",
+        "price": "100",
+        "stack": "64"
+    },
+    {
+        "material_id": "lapis_lazuli",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/43/Lapis_Lazuli_JE2_BE2.png",
+        "name": "lapis lazuli",
+        "url": "https://minecraft.gamepedia.com/Lapis_Lazuli",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "lapis_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fa/Lapis_Lazuli_Block_JE3_BE3.png",
+        "name": "lapis lazuli block",
+        "url": "https://minecraft.gamepedia.com/Lapis_Lazuli_Block",
+        "price": "45",
         "stack": "64"
     },
     {
@@ -72,6 +120,30 @@
         "stack": "64"
     },
     {
+        "material_id": "emerald_ore",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/59/Emerald_Ore_JE2_BE2.png",
+        "name": "emerald ore",
+        "url": "https://minecraft.gamepedia.com/Emerald_Ore",
+        "price": "300",
+        "stack": "64"
+    },
+    {
+        "material_id": "emerald",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Emerald_JE3_BE3.png",
+        "name": "emerald",
+        "url": "https://minecraft.gamepedia.com/Emerald",
+        "price": "100",
+        "stack": "64"
+    },
+    {
+        "material_id": "emerald_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0b/Block_of_Emerald_JE4_BE3.png",
+        "name": "block of emerald",
+        "url": "https://minecraft.gamepedia.com/Block_of_Emerald",
+        "price": "900",
+        "stack": "64"
+    },
+    {
         "material_id": "diamond_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b5/Diamond_Ore_JE3_BE3.png",
         "name": "diamond ore",
@@ -95,4 +167,5 @@
         "price": "2250",
         "stack": "64"
     }
+
 ]
