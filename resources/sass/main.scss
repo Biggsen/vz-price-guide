@@ -1,3 +1,5 @@
+@import '_mixins';
+
 $colorA1: #f6c857;
 $colorA2: #f49b40;
 $colorA3: #e7501d;
@@ -13,7 +15,11 @@ $colorB4: #242c25;
     text-align: center;
 }
 body {
+    margin: 4px;
     font-family: helvetica, sans-serif;
+    @include mq(down,500px){
+        font-size: 80%;
+    }
 }
 table {
     width: 100%;
@@ -27,6 +33,9 @@ caption {
     font-weight: bold;
     border: 2px solid white;
     border-bottom: 0;
+    @include mq(down,500px){
+        padding: 8px 4px;
+    }
 }
 thead th {
     background: $colorB3;
@@ -42,11 +51,17 @@ td,th {
     background: $colorB1;
     padding: 3px 8px;
     border: 2px solid white;
+    @include mq(down,500px){
+        padding: 2px 4px;
+    }
 }
 
 td img {
     max-width: 50px;
     display: block;
+    @include mq(down,500px){
+        width: 30px;
+    }
 }
 td a, th a {
     color: $colorB4;
@@ -67,8 +82,8 @@ td a:hover, th a:hover {
     color: white;
     border: 2px solid white;
     text-shadow: 2px 2px 2px black;
-    h1 {
-
+    @include mq(down,500px){
+        padding: 5px 20px;
     }
 }
 
