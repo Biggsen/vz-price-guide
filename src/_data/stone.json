@@ -238,6 +238,62 @@
         "url": "https://minecraft.gamepedia.com/Polished_Granite_Stairs",
         "price": "2",
         "stack": "64"
+    },
+    {
+        "material_id": "clay",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Clay_JE2_BE2.png",
+        "name": "clay",
+        "url": "https://minecraft.gamepedia.com/Clay",
+        "price": "12",
+        "stack": "64"
+    },
+    {
+        "material_id": "clay_ball",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Clay_Ball_JE2_BE2.png",
+        "name": "clay ball",
+        "url": "https://minecraft.gamepedia.com/Clay_Ball",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "brick",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/32/Brick_JE2_BE2.png",
+        "name": "brick",
+        "url": "https://minecraft.gamepedia.com/Brick",
+        "price": "4",
+        "stack": "64"
+    },
+    {
+        "material_id": "bricks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png",
+        "name": "bricks",
+        "url": "https://minecraft.gamepedia.com/Bricks",
+        "price": "16",
+        "stack": "64"
+    },
+    {
+        "material_id": "brick_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/25/Brick_Slab_JE3_BE2.png",
+        "name": "brick slab",
+        "url": "https://minecraft.gamepedia.com/Brick_Slab",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "brick_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/25/Brick_Stairs_%28N%29_JE5_BE2.png",
+        "name": "brick stairs",
+        "url": "https://minecraft.gamepedia.com/Brick_Stairs",
+        "price": "24",
+        "stack": "64"
+    },
+    {
+        "material_id": "brick_wall",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c2/Brick_Wall_JE1_BE1.png",
+        "name": "brick wall",
+        "url": "https://minecraft.gamepedia.com/Brick_Wall",
+        "price": "16",
+        "stack": "64"
     }
 
 ]

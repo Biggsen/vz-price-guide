@@ -1,0 +1,50 @@
+[
+    {
+        "material_id": "dirt",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Dirt_JE2_BE2.png",
+        "name": "dirt",
+        "url": "https://minecraft.gamepedia.com/Dirt",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "grass_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Grass_Block_JE7_BE6.png",
+        "name": "grass block",
+        "url": "https://minecraft.gamepedia.com/Grass_Block",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "coarse_dirt",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/Coarse_Dirt_JE1_BE1.png",
+        "name": "coarse dirt",
+        "url": "https://minecraft.gamepedia.com/Coarse_Dirt",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "gravel",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Gravel_JE5_BE4.png",
+        "name": "gravel",
+        "url": "https://minecraft.gamepedia.com/Gravel",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "podzol",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/94/Podzol_JE2_BE2.png",
+        "name": "podzol",
+        "url": "https://minecraft.gamepedia.com/Podzol",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "mycelium",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/86/Mycelium_JE2_BE2.png",
+        "name": "mycelium",
+        "url": "https://minecraft.gamepedia.com/Mycelium",
+        "price": "10",
+        "stack": "64"
+    }
+]
