@@ -1,6 +1,12 @@
 # vz-price-guide
-verzion economic price guide for Minecraft
+VZ's economy price guide for Minecraft 1.16
 
 ## Serve
 
-`npm start`
+`npm run start`
+
+## Build
+
+`npm run build`
+
+

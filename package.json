@@ -1,7 +1,7 @@
 {
   "name": "vz-price-guide",
   "version": "1.0.0",
-  "description": "verzion economic price guide for Minecraft",
+  "description": "VZ's economic price guide for Minecraft 1.16",
   "main": "index.js",
   "scripts": {
     "build": "npm-run-all build:css build:html",
