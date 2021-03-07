@@ -3,6 +3,8 @@ module.exports = eleventyConfig => {
     // Include our static assets
     eleventyConfig.addPassthroughCopy("css")
 
+    eleventyConfig.setUseGitIgnore(false);
+
     return {
         passthroughFileCopy: true,
         dir: {
