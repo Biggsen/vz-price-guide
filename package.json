@@ -4,11 +4,13 @@
   "description": "verzion economic price guide for Minecraft",
   "main": "index.js",
   "scripts": {
-    "watch:eleventy": "npx @11ty/eleventy --serve",
-    "watch:sass": "npm run sass -- --watch",
-    "sass": "sass --style=compressed resources/sass/main.scss css/main.css",
-    "start": "npm-run-all sass --parallel watch:*",
-    "production": "npm run sass & npx @11ty/eleventy"
+    "build": "npm-run-all build:css build:html",
+    "build:css": "sass --style=compressed resources/sass/main.scss css/main.css",
+    "build:html": "npx @11ty/eleventy",
+    "watch": "npm-run-all --parallel watch:css watch:html",
+    "watch:css": "sass --style=compressed --watch resources/sass/main.scss css/main.css",
+    "watch:html": "npx @11ty/eleventy --serve",
+    "start": "npm run watch"
   },
   "repository": {
     "type": "git",
