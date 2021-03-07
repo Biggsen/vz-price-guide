@@ -8,12 +8,10 @@ $colorB2: #789472;
 $colorB3: #49584b;
 $colorB4: #242c25;
 
-header {
+header,
+main,
+footer {
     max-width: 800px
-}
-
-main {
-    max-width: 800px;
 }
 
 .hidden {
@@ -22,6 +20,10 @@ main {
 
 .text-center {
     text-align: center;
+}
+
+.mb-0 {
+    margin-bottom: 0;
 }
 
 body {
@@ -156,4 +158,16 @@ td a:hover, th a:hover {
         transparent 0,
         transparent 12.75px);
     background-size: 18px 18px;
+}
+
+footer {
+    box-sizing: border-box;
+    font-size: 14px;
+    color: $colorB1;
+    background: $colorB4;
+    padding: 10px;
+    border: 2px solid white;
+    a {
+        color: $colorB1;
+    }
 }
