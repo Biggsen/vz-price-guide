@@ -3,24 +3,68 @@ layout: base.njk
 priceMultiplier: 1
 sellMargin: 0.30
 ---
-<div class="header pattern">
-    <h1>verzion's Economy Price Guide for Minecraft</h1>
-</div>
-<table>
-    <caption>Ores / Minerals</caption>
-    {% include "thead.njk" %}
-    <tbody>
-    {% for item in ores %}
-        {% include "tbody.njk" %}
-    {% endfor %}
-    </tbody>
-</table>
-<table>
-    <caption>Stone</caption>
-    {% include "thead.njk" %}
-    <tbody>
-    {% for item in stone %}
-        {% include "tbody.njk" %}
-    {% endfor %}
-    </tbody>
-</table>
+<header>
+    <div class="header pattern">
+        <h1>VZ's economy price guide for Minecraft 1.16</h1>
+    </div>
+    <nav class="quicknav">
+        <ul>
+            <li><a href="#ores">Ores</a></li>
+            <li><a href="#stone">Stone</a></li>
+            <li><a href="#earth">Earth</a></li>
+            <li><a href="#sand">Sand</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <table id="ores">
+        <caption>Ores</caption>
+        {% include "thead.njk" %}
+        <tbody>
+        {% for item in ores %}
+            {% include "tbody.njk" %}
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <nav class="skipnav" id="stone">
+        <a href="#ores">&uarr; Ores</a>
+        <a href="#earth">Earth &darr;</a>
+    </nav>
+    <table>
+        <caption>Stone</caption>
+        {% include "thead.njk" %}
+        <tbody>
+        {% for item in stone %}
+            {% include "tbody.njk" %}
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <nav class="skipnav" id="earth">
+        <a href="#stone">&uarr; Stone</a>
+        <a href="#sand">Sand &darr;</a>
+    </nav>
+    <table>
+        <caption>Earth</caption>
+        {% include "thead.njk" %}
+        <tbody>
+        {% for item in earth %}
+            {% include "tbody.njk" %}
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <nav class="skipnav" id="sand">
+        <a href="#earth">&uarr; Earth</a>
+    </nav>
+    <table>
+        <caption>Sand</caption>
+        {% include "thead.njk" %}
+        <tbody>
+        {% for item in sand %}
+            {% include "tbody.njk" %}
+        {% endfor %}
+        </tbody>
+    </table>
+</main>
