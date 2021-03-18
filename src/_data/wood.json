@@ -334,5 +334,117 @@
         "url": "https://minecraft.gamepedia.com/Dark_Oak_Slab",
         "price": "1",
         "stack": "64"
+    },
+    {
+        "material_id": "crimson_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/19/Crimson_Stem_%28UD%29_JE1.gif",
+        "name": "crimson stem",
+        "url": "https://minecraft.gamepedia.com/Crimson_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_crimson_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8c/Stripped_Crimson_Stem_%28UD%29_JE2_BE1.png",
+        "name": "stripped crimson stem",
+        "url": "https://minecraft.gamepedia.com/Stripped_Crimson_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/Crimson_Hyphae_%28UD%29_JE1.gif",
+        "name": "crimson hyphae",
+        "url": "https://minecraft.gamepedia.com/Crimson_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_crimson_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/60/Stripped_Crimson_Hyphae_%28UD%29_JE1.png",
+        "name": "stripped crimson hyphae",
+        "url": "https://minecraft.gamepedia.com/Stripped_Crimson_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Crimson_Planks_JE1_BE1.png",
+        "name": "crimson planks",
+        "url": "https://minecraft.gamepedia.com/Crimson_Planks",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Crimson_Stairs_%28N%29_JE1_BE1.png",
+        "name": "crimson stairs",
+        "url": "https://minecraft.gamepedia.com/Crimson_Stairs",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a7/Crimson_Slab_JE1_BE1.png",
+        "name": "crimson slab",
+        "url": "https://minecraft.gamepedia.com/Crimson_Slab",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Warped_Stem_%28UD%29_JE1.gif",
+        "name": "warped stem",
+        "url": "https://minecraft.gamepedia.com/Warped_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_warped_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Stripped_Warped_Stem_%28UD%29_JE2_BE1.png",
+        "name": "stripped warped stem",
+        "url": "https://minecraft.gamepedia.com/Stripped_Warped_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Warped_Hyphae_%28UD%29_JE1.gif",
+        "name": "warped hyphae",
+        "url": "https://minecraft.gamepedia.com/Warped_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_warped_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Stripped_Warped_Hyphae_%28UD%29_JE1.png",
+        "name": "stripped warped hyphae",
+        "url": "https://minecraft.gamepedia.com/Stripped_Warped_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a5/Warped_Planks_JE1_BE1.png",
+        "name": "warped planks",
+        "url": "https://minecraft.gamepedia.com/Warped_Planks",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Warped_Stairs_%28N%29_JE1_BE1.png",
+        "name": "warped stairs",
+        "url": "https://minecraft.gamepedia.com/Warped_Stairs",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Warped_Slab_JE1_BE1.png",
+        "name": "warped slab",
+        "url": "https://minecraft.gamepedia.com/Warped_Slab",
+        "price": "2",
+        "stack": "64"
     }
 ]
