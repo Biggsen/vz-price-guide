@@ -1,0 +1,178 @@
+[
+    {
+        "material_id": "rotten_flesh",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Rotten_Flesh_JE3_BE2.png",
+        "name": "rotten flesh",
+        "url": "https://minecraft.gamepedia.com/Rotten_Flesh",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "spider_eye",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1a/Spider_Eye_JE2_BE2.png",
+        "name": "spider eye",
+        "url": "https://minecraft.gamepedia.com/Spider_Eye",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "string",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/String_JE2_BE2.png",
+        "name": "string",
+        "url": "https://minecraft.gamepedia.com/String",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "gunpowder",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/40/Gunpowder_JE2_BE2.png",
+        "name": "gunpowder",
+        "url": "https://minecraft.gamepedia.com/Gunpowder",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "bone",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3a/Bone_JE3_BE2.png",
+        "name": "bone",
+        "url": "https://minecraft.gamepedia.com/Bone",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "leather",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6d/Leather_JE2_BE2.png",
+        "name": "leather",
+        "url": "https://minecraft.gamepedia.com/Leather",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "rabbit_hide",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Rabbit_Hide_JE3_BE2.png",
+        "name": "rabbit hide",
+        "url": "https://minecraft.gamepedia.com/Rabbit_Hide",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "feather",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Feather_JE3_BE2.png",
+        "name": "feather",
+        "url": "https://minecraft.gamepedia.com/Feather",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "ink_sac",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c6/Ink_Sac_JE2_BE2.png",
+        "name": "ink sac",
+        "url": "https://minecraft.gamepedia.com/Ink_Sac",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "phantom_membrane",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5c/Phantom_Membrane_JE2_BE2.png",
+        "name": "phantom membrane",
+        "url": "https://minecraft.gamepedia.com/Phantom_Membrane",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "slimeball",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d0/Slimeball_JE2_BE2.png",
+        "name": "slimeball",
+        "url": "https://minecraft.gamepedia.com/Slimeball",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "slime_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/bb/Slime_Block_JE2_BE3.png",
+        "name": "slime block",
+        "url": "https://minecraft.gamepedia.com/Slime_Block",
+        "price": "90",
+        "stack": "64"
+    },
+    {
+        "material_id": "honey_bottle",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c2/Honey_Bottle_JE1_BE2.png",
+        "name": "honey bottle",
+        "url": "https://minecraft.gamepedia.com/Honey_Bottle",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "honey_block",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Honey_Block_JE1_BE2.png",
+        "name": "honey block",
+        "url": "https://minecraft.gamepedia.com/Honey_Block",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "ender_pearl",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Ender_Pearl_JE3_BE2.png",
+        "name": "ender pearl",
+        "url": "https://minecraft.gamepedia.com/Ender_Pearl",
+        "price": "16",
+        "stack": "64"
+    },
+    {
+        "material_id": "ghast_tear",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c5/Ghast_Tear_JE2_BE2.png",
+        "name": "ghast tear",
+        "url": "https://minecraft.gamepedia.com/Ghast_Tear",
+        "price": "80",
+        "stack": "64"
+    },
+    {
+        "material_id": "blaze_rod",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/87/Blaze_Rod_JE1_BE1.png",
+        "name": "blaze rod",
+        "url": "https://minecraft.gamepedia.com/Blaze_Rod",
+        "price": "50",
+        "stack": "64"
+    },
+    {
+        "material_id": "magma_cream",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/08/Magma_Cream_JE3_BE2.png",
+        "name": "magma cream",
+        "url": "https://minecraft.gamepedia.com/Magma_Cream",
+        "price": "30",
+        "stack": "64"
+    },
+    {
+        "material_id": "nautilus_shell",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1a/Nautilus_Shell_JE1_BE2.png",
+        "name": "nautilus shell",
+        "url": "https://minecraft.gamepedia.com/Nautilus_Shell",
+        "price": "50",
+        "stack": "64"
+    },
+    {
+        "material_id": "wither_skeleton_skull",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Wither_Skeleton_Skull.png",
+        "name": "wither skeleton skull",
+        "url": "https://minecraft.gamepedia.com/Wither_Skeleton_Skull",
+        "price": "?",
+        "stack": "64"
+    },
+    {
+        "material_id": "nether_star",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d0/Nether_Star_JE3_BE2.png",
+        "name": "nether star",
+        "url": "https://minecraft.gamepedia.com/Nether_Star",
+        "price": "250",
+        "stack": "64"
+    },
+    {
+        "material_id": "wither_rose",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fa/Wither_Rose_JE1_BE1.png",
+        "name": "wither rose",
+        "url": "https://minecraft.gamepedia.com/Wither_Rose",
+        "price": "?",
+        "stack": "64"
+    }
+]
