@@ -1,0 +1,162 @@
+[
+    {
+        "material_id": "bread",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/44/Bread_JE3_BE3.png",
+        "name": "bread",
+        "url": "https://minecraft.gamepedia.com/Bread",
+        "price": "6",
+        "stack": "64"
+    },
+    {
+        "material_id": "beef",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Raw_Beef_JE4_BE3.png",
+        "name": "raw beef",
+        "url": "https://minecraft.gamepedia.com/Raw_Beef",
+        "price": "7",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_beef",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Steak_JE4_BE3.png",
+        "name": "steak",
+        "url": "https://minecraft.gamepedia.com/Steak",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "porkchop",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Raw_Porkchop_JE3_BE3.png",
+        "name": "raw porkchop",
+        "url": "https://minecraft.gamepedia.com/Raw_Porkchop",
+        "price": "7",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_porkchop",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ee/Cooked_Porkchop_JE4_BE3.png",
+        "name": "cooked porkchop",
+        "url": "https://minecraft.gamepedia.com/Cooked_Porkchop",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "mutton",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f3/Raw_Mutton_JE3_BE2.png",
+        "name": "raw mutton",
+        "url": "https://minecraft.gamepedia.com/raw_mutton",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_mutton",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Cooked_Mutton_JE3_BE2.png",
+        "name": "cooked mutton",
+        "url": "https://minecraft.gamepedia.com/cooked_mutton",
+        "price": "6",
+        "stack": "64"
+    },
+    {
+        "material_id": "chicken",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/51/Raw_Chicken_JE3_BE3.png",
+        "name": "raw chicken",
+        "url": "https://minecraft.gamepedia.com/raw_chicken",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_chicken",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/Cooked_Chicken_JE3_BE3.png",
+        "name": "cooked chicken",
+        "url": "https://minecraft.gamepedia.com/cooked_chicken",
+        "price": "6",
+        "stack": "64"
+    },
+    {
+        "material_id": "rabbit",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Raw_Rabbit_JE3_BE2.png",
+        "name": "raw rabbit",
+        "url": "https://minecraft.gamepedia.com/raw_rabbit",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_rabbit",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Cooked_Rabbit_JE3_BE2.png",
+        "name": "cooked rabbit",
+        "url": "https://minecraft.gamepedia.com/cooked_rabbit",
+        "price": "4",
+        "stack": "64"
+    },
+    {
+        "material_id": "cod",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ef/Raw_Cod_JE4_BE2.png",
+        "name": "raw cod",
+        "url": "https://minecraft.gamepedia.com/raw_cod",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_cod",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/53/Cooked_Cod_JE4_BE3.png",
+        "name": "cooked cod",
+        "url": "https://minecraft.gamepedia.com/cooked_cod",
+        "price": "4",
+        "stack": "64"
+    },
+    {
+        "material_id": "salmon",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/75/Raw_Salmon_JE2_BE2.png",
+        "name": "raw salmon",
+        "url": "https://minecraft.gamepedia.com/raw_salmon",
+        "price": "4",
+        "stack": "64"
+    },
+    {
+        "material_id": "cooked_salmon",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2b/Cooked_Salmon_JE2_BE2.png",
+        "name": "cooked salmon",
+        "url": "https://minecraft.gamepedia.com/cooked_salmon",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "pufferfish",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/02/Pufferfish_%28item%29_JE5_BE2.png",
+        "name": "pufferfish",
+        "url": "https://minecraft.gamepedia.com/pufferfish_(item)",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "tropical_fish",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ad/Tropical_Fish_JE2_BE2.png",
+        "name": "tropical fish",
+        "url": "https://minecraft.gamepedia.com/tropical_fish_(item)",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "apple",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/af/Apple_JE3_BE3.png",
+        "name": "apple",
+        "url": "https://minecraft.gamepedia.com/apple",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "golden_apple",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/54/Golden_Apple_JE2_BE2.png",
+        "name": "golden apple",
+        "url": "https://minecraft.gamepedia.com/golden_apple",
+        "price": "250",
+        "stack": "64"
+    },
+    {
+        "material_id": "enchanted_golden_apple",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Enchanted_Golden_Apple_JE2_BE2.gif",
+        "name": "enchanted golden apple",
+        "url": "https://minecraft.gamepedia.com/enchanted_golden_apple",
+        "price": "500",
+        "stack": "64"
+    }
+]

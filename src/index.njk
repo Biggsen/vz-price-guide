@@ -24,6 +24,7 @@ sellMargin: 0.30
             <li><a href="#sand">Sand</a></li>
             <li><a href="#wood">Wood</a></li>
             <li><a href="#drops">Mob drops</a></li>
+            <li><a href="#food">Food</a></li>
         </ul>
     </nav>
 </header>
@@ -96,12 +97,26 @@ sellMargin: 0.30
 
     <nav class="skipnav" id="drops">
         <a href="#wood">&uarr; Wood</a>
+        <a href="#food">Food &darr;</a>
     </nav>
     <table>
         <caption>Mob drops</caption>
         {% include "thead.njk" %}
         <tbody>
         {% for item in drops %}
+            {% include "tbody.njk" %}
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <nav class="skipnav" id="food">
+        <a href="#drops">&uarr; Mob drops</a>
+    </nav>
+    <table>
+        <caption>Food</caption>
+        {% include "thead.njk" %}
+        <tbody>
+        {% for item in food %}
             {% include "tbody.njk" %}
         {% endfor %}
         </tbody>
