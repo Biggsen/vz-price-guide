@@ -12,6 +12,11 @@
       {% else %}
           <td class="text-center">{{ sellUnitPrice | round }}</td>
       {% endif %}
-      <td class="text-center">{{ buyStackPrice | round }}</td>
-      <td class="text-center">{{ sellStackPrice | round }}</td>
+      {% if item.stack == 0 %}
+        <td class="text-center">N/A</td>
+        <td class="text-center">N/A</td>
+      {% else %}
+        <td class="text-center">{{ buyStackPrice | round }}</td>
+        <td class="text-center">{{ sellStackPrice | round }}</td>
+      {% endif %}
 </tr>
