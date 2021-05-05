@@ -3,7 +3,7 @@
         "material_id": "redstone_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Redstone_Ore_JE2_BE2.png",
         "name": "redstone ore",
-        "url": "https://minecraft.gamepedia.com/Redstone_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Redstone_Ore",
         "price": "30",
         "stack": "64"
     },
@@ -11,7 +11,7 @@
         "material_id": "redstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e1/Redstone_Dust_JE2_BE2.png",
         "name": "redstone dust",
-        "url": "https://minecraft.gamepedia.com/Redstone_Dust",
+        "url": "https://minecraft.fandom.com/wiki/Redstone_Dust",
         "price": "3",
         "stack": "64"
     },
@@ -19,7 +19,7 @@
         "material_id": "redstone_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Block_of_Redstone_JE2_BE2.png",
         "name": "block of redstone",
-        "url": "https://minecraft.gamepedia.com/Block_of_Redstone",
+        "url": "https://minecraft.fandom.com/wiki/Block_of_Redstone",
         "price": "27",
         "stack": "64"
     },
@@ -27,7 +27,7 @@
         "material_id": "coal_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d6/Coal_Ore_JE2_BE2.png",
         "name": "coal ore",
-        "url": "https://minecraft.gamepedia.com/Coal_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Coal_Ore",
         "price": "28",
         "stack": "64"
     },
@@ -35,7 +35,7 @@
         "material_id": "coal",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/58/Coal_JE4_BE3.png",
         "name": "coal",
-        "url": "https://minecraft.gamepedia.com/Coal",
+        "url": "https://minecraft.fandom.com/wiki/Coal",
         "price": "8",
         "stack": "64"
     },
@@ -43,7 +43,7 @@
         "material_id": "coal_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Block_of_Coal_JE3_BE2.png",
         "name": "block of coal",
-        "url": "https://minecraft.gamepedia.com/Block_of_Coal",
+        "url": "https://minecraft.fandom.com/wiki/Block_of_Coal",
         "price": "72",
         "stack": "64"
     },
@@ -51,7 +51,7 @@
         "material_id": "lapis_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ce/Lapis_Lazuli_Ore_JE2_BE2.png",
         "name": "lapis ore",
-        "url": "https://minecraft.gamepedia.com/Lapis_Lazuli_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Lapis_Lazuli_Ore",
         "price": "100",
         "stack": "64"
     },
@@ -59,7 +59,7 @@
         "material_id": "lapis_lazuli",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/43/Lapis_Lazuli_JE2_BE2.png",
         "name": "lapis lazuli",
-        "url": "https://minecraft.gamepedia.com/Lapis_Lazuli",
+        "url": "https://minecraft.fandom.com/wiki/Lapis_Lazuli",
         "price": "5",
         "stack": "64"
     },
@@ -67,7 +67,7 @@
         "material_id": "lapis_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fa/Lapis_Lazuli_Block_JE3_BE3.png",
         "name": "lapis lazuli block",
-        "url": "https://minecraft.gamepedia.com/Lapis_Lazuli_Block",
+        "url": "https://minecraft.fandom.com/wiki/Lapis_Lazuli_Block",
         "price": "45",
         "stack": "64"
     },
@@ -75,7 +75,7 @@
         "material_id": "iron_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/88/Iron_Ore_JE2_BE2.png",
         "name": "iron ore",
-        "url": "https://minecraft.gamepedia.com/Iron_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Iron_Ore",
         "price": "18",
         "stack": "64"
     },
@@ -83,7 +83,7 @@
         "material_id": "iron_ingot",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Iron_Ingot_JE3_BE2.png",
         "name": "iron ingot",
-        "url": "https://minecraft.gamepedia.com/Iron_Ingot",
+        "url": "https://minecraft.fandom.com/wiki/Iron_Ingot",
         "price": "20",
         "stack": "64"
     },
@@ -91,7 +91,7 @@
         "material_id": "iron_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Block_of_Iron_JE4_BE3.png",
         "name": "block of iron",
-        "url": "https://minecraft.gamepedia.com/Block_of_Iron",
+        "url": "https://minecraft.fandom.com/wiki/Block_of_Iron",
         "price": "180",
         "stack": "64"
     },
@@ -99,7 +99,7 @@
         "material_id": "gold_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b9/Gold_Ore_JE3_BE2.png",
         "name": "gold ore",
-        "url": "https://minecraft.gamepedia.com/Gold_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Gold_Ore",
         "price": "48",
         "stack": "64"
     },
@@ -107,7 +107,7 @@
         "material_id": "gold_ingot",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8a/Gold_Ingot_JE4_BE2.png",
         "name": "gold ingot",
-        "url": "https://minecraft.gamepedia.com/Gold_Ingot",
+        "url": "https://minecraft.fandom.com/wiki/Gold_Ingot",
         "price": "50",
         "stack": "64"
     },
@@ -115,7 +115,7 @@
         "material_id": "gold_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Block_of_Gold_JE6_BE3.png",
         "name": "block of gold",
-        "url": "https://minecraft.gamepedia.com/Block_of_Gold",
+        "url": "https://minecraft.fandom.com/wiki/Block_of_Gold",
         "price": "450",
         "stack": "64"
     },
@@ -123,7 +123,7 @@
         "material_id": "emerald_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/54/Emerald_Ore_JE3_BE2.png",
         "name": "emerald ore",
-        "url": "https://minecraft.gamepedia.com/Emerald_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Emerald_Ore",
         "price": "300",
         "stack": "64"
     },
@@ -131,7 +131,7 @@
         "material_id": "emerald",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Emerald_JE3_BE3.png",
         "name": "emerald",
-        "url": "https://minecraft.gamepedia.com/Emerald",
+        "url": "https://minecraft.fandom.com/wiki/Emerald",
         "price": "100",
         "stack": "64"
     },
@@ -139,7 +139,7 @@
         "material_id": "emerald_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0b/Block_of_Emerald_JE4_BE3.png",
         "name": "block of emerald",
-        "url": "https://minecraft.gamepedia.com/Block_of_Emerald",
+        "url": "https://minecraft.fandom.com/wiki/Block_of_Emerald",
         "price": "900",
         "stack": "64"
     },
@@ -147,7 +147,7 @@
         "material_id": "diamond_ore",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b5/Diamond_Ore_JE3_BE3.png",
         "name": "diamond ore",
-        "url": "https://minecraft.gamepedia.com/Diamond_Ore",
+        "url": "https://minecraft.fandom.com/wiki/Diamond_Ore",
         "price": "875",
         "stack": "64"
     },
@@ -155,7 +155,7 @@
         "material_id": "diamond",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_JE3_BE3.png",
         "name": "diamond",
-        "url": "https://minecraft.gamepedia.com/Diamond",
+        "url": "https://minecraft.fandom.com/wiki/Diamond",
         "price": "250",
         "stack": "64"
     },
@@ -163,7 +163,7 @@
         "material_id": "diamond_block",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6b/Block_of_Diamond_JE6_BE3.png",
         "name": "block of diamond",
-        "url": "https://minecraft.gamepedia.com/Block_of_Diamond",
+        "url": "https://minecraft.fandom.com/wiki/Block_of_Diamond",
         "price": "2250",
         "stack": "64"
     }

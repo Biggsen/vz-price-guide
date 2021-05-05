@@ -3,7 +3,7 @@
         "material_id": "sand",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Sand_JE5_BE3.png",
         "name": "sand",
-        "url": "https://minecraft.gamepedia.com/Sand",
+        "url": "https://minecraft.fandom.com/wiki/Sand",
         "price": "1",
         "stack": "64"
     },
@@ -11,7 +11,7 @@
         "material_id": "sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/95/Sandstone_JE6_BE3.png",
         "name": "sandstone",
-        "url": "https://minecraft.gamepedia.com/Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Sandstone",
         "price": "4",
         "stack": "64"
     },
@@ -19,7 +19,7 @@
         "material_id": "sandstone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/ff/Sandstone_Slab_JE5_BE2.png",
         "name": "sandstone slab",
-        "url": "https://minecraft.gamepedia.com/Sandstone_Slab",
+        "url": "https://minecraft.fandom.com/wiki/Sandstone_Slab",
         "price": "2",
         "stack": "64"
     },
@@ -27,7 +27,7 @@
         "material_id": "sandstone_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8e/Sandstone_Stairs_%28N%29_JE6_BE3.png",
         "name": "sandstone stairs",
-        "url": "https://minecraft.gamepedia.com/Sandstone_Stairs",
+        "url": "https://minecraft.fandom.com/wiki/Sandstone_Stairs",
         "price": "6",
         "stack": "64"
     },
@@ -35,7 +35,7 @@
         "material_id": "sandstone_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/bc/Sandstone_Wall_JE2_BE1.png",
         "name": "sandstone wall",
-        "url": "https://minecraft.gamepedia.com/Sandstone_Wall",
+        "url": "https://minecraft.fandom.com/wiki/Sandstone_Wall",
         "price": "4",
         "stack": "64"
     },
@@ -43,7 +43,7 @@
         "material_id": "cut_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/91/Cut_Sandstone_JE5_BE2.png",
         "name": "cut sandstone",
-        "url": "https://minecraft.gamepedia.com/Cut_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Cut_Sandstone",
         "price": "4",
         "stack": "64"
     },
@@ -51,7 +51,7 @@
         "material_id": "cut_sandstone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/37/Cut_Sandstone_Slab_JE1_BE1.png",
         "name": "cut sandstone slab",
-        "url": "https://minecraft.gamepedia.com/Cut_Sandstone_Slab",
+        "url": "https://minecraft.fandom.com/wiki/Cut_Sandstone_Slab",
         "price": "2",
         "stack": "64"
     },
@@ -59,7 +59,7 @@
         "material_id": "chiseled_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Chiseled_Sandstone_JE5_BE2.png",
         "name": "chiseled sandstone",
-        "url": "https://minecraft.gamepedia.com/Chiseled_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Chiseled_Sandstone",
         "price": "4",
         "stack": "64"
     },
@@ -67,7 +67,7 @@
         "material_id": "smooth_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3c/Smooth_Sandstone.png",
         "name": "smooth sandstone",
-        "url": "https://minecraft.gamepedia.com/Smooth_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Smooth_Sandstone",
         "price": "5",
         "stack": "64"
     },
@@ -75,7 +75,7 @@
         "material_id": "smooth_sandstone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/86/Smooth_Sandstone_Slab_JE3_BE2.png",
         "name": "smooth sandstone slab",
-        "url": "https://minecraft.gamepedia.com/Smooth_Sandstone_Slab",
+        "url": "https://minecraft.fandom.com/wiki/Smooth_Sandstone_Slab",
         "price": "3",
         "stack": "64"
     },
@@ -83,7 +83,7 @@
         "material_id": "smooth_sandstone_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png",
         "name": "smooth sandstone stairs",
-        "url": "https://minecraft.gamepedia.com/Smooth_Sandstone_Stairs",
+        "url": "https://minecraft.fandom.com/wiki/Smooth_Sandstone_Stairs",
         "price": "7",
         "stack": "64"
     },
@@ -91,7 +91,7 @@
         "material_id": "red_sand",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/36/Red_Sand_JE3_BE2.png",
         "name": "red sand",
-        "url": "https://minecraft.gamepedia.com/Red_Sand",
+        "url": "https://minecraft.fandom.com/wiki/Red_Sand",
         "price": "1",
         "stack": "64"
     },
@@ -99,7 +99,7 @@
         "material_id": "red_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Red_Sandstone_JE4_BE2.png",
         "name": "red sandstone",
-        "url": "https://minecraft.gamepedia.com/Red_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Red_Sandstone",
         "price": "4",
         "stack": "64"
     },
@@ -107,7 +107,7 @@
         "material_id": "red_sandstone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/08/Red_Sandstone_Slab_JE4_BE2.png",
         "name": "red sandstone slab",
-        "url": "https://minecraft.gamepedia.com/Red_Sandstone_Slab",
+        "url": "https://minecraft.fandom.com/wiki/Red_Sandstone_Slab",
         "price": "2",
         "stack": "64"
     },
@@ -115,7 +115,7 @@
         "material_id": "red_sandstone_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/60/Red_Sandstone_Stairs_%28N%29_JE4_BE2.png",
         "name": "red sandstone stairs",
-        "url": "https://minecraft.gamepedia.com/Red_Sandstone_Stairs",
+        "url": "https://minecraft.fandom.com/wiki/Red_Sandstone_Stairs",
         "price": "6",
         "stack": "64"
     },
@@ -123,7 +123,7 @@
         "material_id": "red_sandstone_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/01/Red_Sandstone_Wall_JE2_BE1.png",
         "name": "red sandstone wall",
-        "url": "https://minecraft.gamepedia.com/Red_Sandstone_Wall",
+        "url": "https://minecraft.fandom.com/wiki/Red_Sandstone_Wall",
         "price": "4",
         "stack": "64"
     },
@@ -131,7 +131,7 @@
         "material_id": "cut_red_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/36/Cut_Red_Sandstone_JE4_BE2.png",
         "name": "cut red sandstone",
-        "url": "https://minecraft.gamepedia.com/Cut_Red_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Cut_Red_Sandstone",
         "price": "4",
         "stack": "64"
     },
@@ -139,7 +139,7 @@
         "material_id": "cut_red_sandstone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0a/Cut_Red_Sandstone_Slab_JE1_BE1.png",
         "name": "cut red sandstone slab",
-        "url": "https://minecraft.gamepedia.com/Cut_Red_Sandstone_Slab",
+        "url": "https://minecraft.fandom.com/wiki/Cut_Red_Sandstone_Slab",
         "price": "2",
         "stack": "64"
     },
@@ -147,7 +147,7 @@
         "material_id": "chiseled_red_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1c/Chiseled_Red_Sandstone_JE4_BE2.png",
         "name": "chiseled red sandstone",
-        "url": "https://minecraft.gamepedia.com/Chiseled_Red_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Chiseled_Red_Sandstone",
         "price": "4",
         "stack": "64"
     },
@@ -155,7 +155,7 @@
         "material_id": "smooth_red_sandstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d3/Smooth_Red_Sandstone.png",
         "name": "smooth red sandstone",
-        "url": "https://minecraft.gamepedia.com/Smooth_Red_Sandstone",
+        "url": "https://minecraft.fandom.com/wiki/Smooth_Red_Sandstone",
         "price": "5",
         "stack": "64"
     },
@@ -163,7 +163,7 @@
         "material_id": "smooth_red_sandstone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/56/Smooth_Red_Sandstone_Slab_JE3_BE2.png",
         "name": "smooth red sandstone slab",
-        "url": "https://minecraft.gamepedia.com/Smooth_Red_Sandstone_Slab",
+        "url": "https://minecraft.fandom.com/wiki/Smooth_Red_Sandstone_Slab",
         "price": "3",
         "stack": "64"
     },
@@ -171,7 +171,7 @@
         "material_id": "smooth_red_sandstone_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/22/Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png",
         "name": "smooth red sandstone stairs",
-        "url": "https://minecraft.gamepedia.com/Smooth_Red_Sandstone_Stairs",
+        "url": "https://minecraft.fandom.com/wiki/Smooth_Red_Sandstone_Stairs",
         "price": "7",
         "stack": "64"
     }
