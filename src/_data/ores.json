@@ -80,6 +80,14 @@
         "stack": "64"
     },
     {
+        "material_id": "iron_nugget",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ea/Iron_Nugget_JE1_BE1.png",
+        "name": "iron nugget",
+        "url": "https://minecraft.fandom.com/wiki/Iron_Nugget",
+        "price": "2",
+        "stack": "64"
+    },
+    {
         "material_id": "iron_ingot",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Iron_Ingot_JE3_BE2.png",
         "name": "iron ingot",
@@ -101,6 +109,14 @@
         "name": "gold ore",
         "url": "https://minecraft.fandom.com/wiki/Gold_Ore",
         "price": "48",
+        "stack": "64"
+    },
+    {
+        "material_id": "gold_nugget",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3d/Gold_Nugget_JE3_BE2.png",
+        "name": "gold nugget",
+        "url": "https://minecraft.fandom.com/wiki/Gold_Nugget",
+        "price": "5",
         "stack": "64"
     },
     {
