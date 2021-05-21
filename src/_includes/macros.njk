@@ -1,0 +1,7 @@
+{% macro skipnav(id,previd,prevname,nextid,nextname) %}
+    <nav class="skipnav" id="{{ id }}">
+        <a href="#{{ previd }}">&uarr; {{ prevname}}</a>
+        <a href="#top">&uarr; Back to top</a>
+        <a href="#{{ nextid }}">{{ nextname }} &darr;</a>
+    </nav>
+{% endmacro %}

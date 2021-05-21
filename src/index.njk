@@ -3,6 +3,9 @@ layout: base.njk
 priceMultiplier: 1
 sellMargin: 0.30
 ---
+
+{% import "macros.njk" as macro %}
+
 <header id="top">
     <div class="header pattern">
         <h1>{{ title }}</h1>
@@ -39,10 +42,7 @@ sellMargin: 0.30
         </tbody>
     </table>
 
-    <nav class="skipnav" id="stone">
-        <a href="#ores">&uarr; Ores</a>
-        <a href="#earth">Earth &darr;</a>
-    </nav>
+    {{ macro.skipnav("stone","ores","Ores","earth","Earth") }}
     <table>
         <caption>Stone</caption>
         {% include "thead.njk" %}
@@ -53,10 +53,7 @@ sellMargin: 0.30
         </tbody>
     </table>
 
-    <nav class="skipnav" id="earth">
-        <a href="#stone">&uarr; Stone</a>
-        <a href="#sand">Sand &darr;</a>
-    </nav>
+    {{ macro.skipnav("earth","stone","Stone","sand","Sand") }}
     <table>
         <caption>Earth</caption>
         {% include "thead.njk" %}
@@ -67,10 +64,7 @@ sellMargin: 0.30
         </tbody>
     </table>
 
-    <nav class="skipnav" id="sand">
-        <a href="#earth">&uarr; Earth</a>
-        <a href="#wood">Wood &darr;</a>
-    </nav>
+    {{ macro.skipnav("sand","earth","Earth","wood","Wood") }}
     <table>
         <caption>Sand</caption>
         {% include "thead.njk" %}
@@ -81,10 +75,7 @@ sellMargin: 0.30
         </tbody>
     </table>
 
-    <nav class="skipnav" id="wood">
-        <a href="#sand">&uarr; Sand</a>
-        <a href="#drops">Mob drops &darr;</a>
-    </nav>
+    {{ macro.skipnav("wood","sand","Sand","drops","Mob drops") }}
     <table>
         <caption>Wood</caption>
         {% include "thead.njk" %}
@@ -95,10 +86,7 @@ sellMargin: 0.30
         </tbody>
     </table>
 
-    <nav class="skipnav" id="drops">
-        <a href="#wood">&uarr; Wood</a>
-        <a href="#food">Food &darr;</a>
-    </nav>
+    {{ macro.skipnav("drops","wood","Wood","food","Food") }}
     <table>
         <caption>Mob drops</caption>
         {% include "thead.njk" %}
@@ -109,9 +97,7 @@ sellMargin: 0.30
         </tbody>
     </table>
 
-    <nav class="skipnav" id="food">
-        <a href="#drops">&uarr; Mob drops</a>
-    </nav>
+    {{ macro.skipnav("food","drops","Mob drops","utility","Utility") }}
     <table>
         <caption>Food</caption>
         {% include "thead.njk" %}
