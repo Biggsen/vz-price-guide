@@ -41,7 +41,7 @@
     },
     {
         "material_id": "chest",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/bd/Chest_%28S%29_JE2_BE2.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Chest.gif",
         "name": "chest",
         "url": "https://minecraft.fandom.com/wiki/Chest",
         "price": "16",
@@ -121,8 +121,8 @@
     },
     {
         "material_id": "crafting_table",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/07/Crafting_Table_JE4.png",
-        "name": "crafting_table",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b7/Crafting_Table_JE4_BE3.png",
+        "name": "crafting table",
         "url": "https://minecraft.fandom.com/wiki/Crafting_Table",
         "price": "8",
         "stack": "64"
@@ -177,7 +177,7 @@
     },
     {
         "material_id": "brewing_stand",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/bc/Brewing_Stand_%28Full%29.png",
+        "image": "https://gamepedia.cursecdn.com/minecraft_gamepedia/f/fa/Brewing_Stand.png",
         "name": "brewing stand",
         "url": "https://minecraft.fandom.com/wiki/Brewing_Stand",
         "price": "53",
@@ -225,7 +225,7 @@
     },
     {
         "material_id": "composter",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/85/Composter_%28compost_level_5%29.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1d/Composter_JE1.png",
         "name": "composter",
         "url": "https://minecraft.fandom.com/wiki/Composter",
         "price": "8",

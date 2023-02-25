@@ -65,7 +65,7 @@
     },
     {
         "material_id": "lapis_block",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fa/Lapis_Lazuli_Block_JE3_BE3.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Block_of_Lapis_Lazuli_JE3_BE3.png",
         "name": "lapis lazuli block",
         "url": "https://minecraft.fandom.com/wiki/Lapis_Lazuli_Block",
         "price": "45",
@@ -177,7 +177,7 @@
     },
     {
         "material_id": "diamond_block",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6b/Block_of_Diamond_JE6_BE3.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Block_of_Diamond_JE5_BE3.png",
         "name": "block of diamond",
         "url": "https://minecraft.fandom.com/wiki/Block_of_Diamond",
         "price": "2250",

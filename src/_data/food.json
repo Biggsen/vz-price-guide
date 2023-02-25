@@ -289,7 +289,7 @@
     },
     {
         "material_id": "bucket_of_cod",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/20/Bucket_of_Cod.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Bucket_of_Cod_JE2_BE2.png",
         "name": "bucket of cod",
         "url": "https://minecraft.fandom.com/wiki/Bucket_of_Cod",
         "price": "63",
@@ -297,7 +297,7 @@
     },
     {
         "material_id": "bucket_of_salmon",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Bucket_of_Salmon.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Bucket_of_Salmon_JE2_BE2.png",
         "name": "bucket of salmon",
         "url": "https://minecraft.fandom.com/wiki/Bucket_of_Salmon",
         "price": "64",
@@ -305,7 +305,7 @@
     },
     {
         "material_id": "bucket_of_pufferfish",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Bucket_of_Pufferfish.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Bucket_of_Pufferfish_JE2_BE2.png",
         "name": "bucket of pufferfish",
         "url": "https://minecraft.fandom.com/wiki/Bucket_of_Pufferfish",
         "price": "63",
@@ -313,7 +313,7 @@
     },
     {
         "material_id": "bucket_of_tropical_fish",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/48/Bucket_of_Tropical_Fish.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Bucket_of_Tropical_Fish_JE3_BE2.png",
         "name": "bucket of tropical fish",
         "url": "https://minecraft.fandom.com/wiki/Bucket_of_Tropical_Fish",
         "price": "63",

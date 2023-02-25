@@ -1,7 +1,7 @@
 [
     {
         "material_id": "cobblestone",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6a/Cobblestone_JE6_BE3.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/67/Cobblestone.png",
         "name": "cobblestone",
         "url": "https://minecraft.fandom.com/wiki/Cobblestone",
         "price": "1",
@@ -33,7 +33,7 @@
     },
     {
         "material_id": "stone",
-        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/29/Stone_JE4_BE3.png",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Stone.png",
         "name": "stone",
         "url": "https://minecraft.fandom.com/wiki/Stone",
         "price": "2",
