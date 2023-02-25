@@ -8,10 +8,22 @@ $colorB2: #789472;
 $colorB3: #49584b;
 $colorB4: #242c25;
 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 4px;
+    font-family: helvetica, sans-serif;
+    @include mq(down,500px){
+        font-size: 85%;
+    }
+}
+
 header,
 main,
 footer {
-    max-width: 800px
+    max-width: 800px;
+    width: 100%;
 }
 
 .hidden {
@@ -26,14 +38,6 @@ footer {
     margin-bottom: 0;
 }
 
-body {
-    margin: 4px;
-    font-family: helvetica, sans-serif;
-    @include mq(down,500px){
-        font-size: 80%;
-    }
-}
-
 .intro {
     padding: 0 10px;
 }
@@ -42,10 +46,9 @@ body {
     box-sizing: border-box;
     background: $colorB1;
     padding: 10px;
-    color: white;
     border: 2px solid white;
     @include mq(down,500px){
-        padding: 5px 20px;
+        padding: 5px;
     }
 
     ul {
@@ -77,7 +80,6 @@ body {
     font-weight: bold;
 
     a {
-
         color: $colorB4;
     }
 }
@@ -99,16 +101,20 @@ caption {
         padding: 8px 4px;
     }
 }
+
 thead th {
     background: $colorB3;
     color: $colorB1;
 }
+
 tbody th {
     text-align: left;
 }
+
 td:first-child {
     background: $colorB2;
 }
+
 td,th {
     background: $colorB1;
     padding: 3px 8px;
@@ -146,6 +152,7 @@ td a:hover, th a:hover {
     @include mq(down,500px){
         padding: 5px 20px;
     }
+
     h1 {
         font-size: 30px;
     }
