@@ -3,7 +3,7 @@
         "material_id": "bread",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/44/Bread_JE3_BE3.png",
         "name": "bread",
-        "url": "https://minecraft.fandom.com/wiki/Bread",
+        "url": "https://minecraft.wiki/w/Bread",
         "price": "6",
         "stack": "64"
     },
@@ -11,7 +11,7 @@
         "material_id": "beef",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Raw_Beef_JE4_BE3.png",
         "name": "raw beef",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Beef",
+        "url": "https://minecraft.wiki/w/Raw_Beef",
         "price": "7",
         "stack": "64"
     },
@@ -19,7 +19,7 @@
         "material_id": "cooked_beef",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Steak_JE4_BE3.png",
         "name": "steak",
-        "url": "https://minecraft.fandom.com/wiki/Steak",
+        "url": "https://minecraft.wiki/w/Steak",
         "price": "8",
         "stack": "64"
     },
@@ -27,7 +27,7 @@
         "material_id": "porkchop",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Raw_Porkchop_JE3_BE3.png",
         "name": "raw porkchop",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Porkchop",
+        "url": "https://minecraft.wiki/w/Raw_Porkchop",
         "price": "7",
         "stack": "64"
     },
@@ -35,7 +35,7 @@
         "material_id": "cooked_porkchop",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ee/Cooked_Porkchop_JE4_BE3.png",
         "name": "cooked porkchop",
-        "url": "https://minecraft.fandom.com/wiki/Cooked_Porkchop",
+        "url": "https://minecraft.wiki/w/Cooked_Porkchop",
         "price": "8",
         "stack": "64"
     },
@@ -43,7 +43,7 @@
         "material_id": "mutton",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f3/Raw_Mutton_JE3_BE2.png",
         "name": "raw mutton",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Mutton",
+        "url": "https://minecraft.wiki/w/Raw_Mutton",
         "price": "5",
         "stack": "64"
     },
@@ -51,7 +51,7 @@
         "material_id": "cooked_mutton",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Cooked_Mutton_JE3_BE2.png",
         "name": "cooked mutton",
-        "url": "https://minecraft.fandom.com/wiki/Cooked_Mutton",
+        "url": "https://minecraft.wiki/w/Cooked_Mutton",
         "price": "6",
         "stack": "64"
     },
@@ -59,7 +59,7 @@
         "material_id": "chicken",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/51/Raw_Chicken_JE3_BE3.png",
         "name": "raw chicken",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Chicken",
+        "url": "https://minecraft.wiki/w/Raw_Chicken",
         "price": "5",
         "stack": "64"
     },
@@ -67,7 +67,7 @@
         "material_id": "cooked_chicken",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/Cooked_Chicken_JE3_BE3.png",
         "name": "cooked chicken",
-        "url": "https://minecraft.fandom.com/wiki/Cooked_Chicken",
+        "url": "https://minecraft.wiki/w/Cooked_Chicken",
         "price": "6",
         "stack": "64"
     },
@@ -75,7 +75,7 @@
         "material_id": "rabbit",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Raw_Rabbit_JE3_BE2.png",
         "name": "raw rabbit",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Rabbit",
+        "url": "https://minecraft.wiki/w/Raw_Rabbit",
         "price": "3",
         "stack": "64"
     },
@@ -83,7 +83,7 @@
         "material_id": "cooked_rabbit",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Cooked_Rabbit_JE3_BE2.png",
         "name": "cooked rabbit",
-        "url": "https://minecraft.fandom.com/wiki/Cooked_Rabbit",
+        "url": "https://minecraft.wiki/w/Cooked_Rabbit",
         "price": "4",
         "stack": "64"
     },
@@ -91,7 +91,7 @@
         "material_id": "cod",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ef/Raw_Cod_JE4_BE2.png",
         "name": "raw cod",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Cod",
+        "url": "https://minecraft.wiki/w/Raw_Cod",
         "price": "3",
         "stack": "64"
     },
@@ -99,7 +99,7 @@
         "material_id": "cooked_cod",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/53/Cooked_Cod_JE4_BE3.png",
         "name": "cooked cod",
-        "url": "https://minecraft.fandom.com/wiki/Cooked_Cod",
+        "url": "https://minecraft.wiki/w/Cooked_Cod",
         "price": "4",
         "stack": "64"
     },
@@ -107,7 +107,7 @@
         "material_id": "salmon",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/75/Raw_Salmon_JE2_BE2.png",
         "name": "raw salmon",
-        "url": "https://minecraft.fandom.com/wiki/Raw_Salmon",
+        "url": "https://minecraft.wiki/w/Raw_Salmon",
         "price": "4",
         "stack": "64"
     },
@@ -115,7 +115,7 @@
         "material_id": "cooked_salmon",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2b/Cooked_Salmon_JE2_BE2.png",
         "name": "cooked salmon",
-        "url": "https://minecraft.fandom.com/wiki/Cooked_Salmon",
+        "url": "https://minecraft.wiki/w/Cooked_Salmon",
         "price": "5",
         "stack": "64"
     },
@@ -123,7 +123,7 @@
         "material_id": "pufferfish",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/02/Pufferfish_%28item%29_JE5_BE2.png",
         "name": "pufferfish",
-        "url": "https://minecraft.fandom.com/wiki/Pufferfish_(item)",
+        "url": "https://minecraft.wiki/w/Pufferfish_(item)",
         "price": "3",
         "stack": "64"
     },
@@ -131,7 +131,7 @@
         "material_id": "tropical_fish",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ad/Tropical_Fish_JE2_BE2.png",
         "name": "tropical fish",
-        "url": "https://minecraft.fandom.com/wiki/Tropical_Fish_(item)",
+        "url": "https://minecraft.wiki/w/Tropical_Fish_(item)",
         "price": "3",
         "stack": "64"
     },
@@ -139,7 +139,7 @@
         "material_id": "apple",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/af/Apple_JE3_BE3.png",
         "name": "apple",
-        "url": "https://minecraft.fandom.com/wiki/Apple",
+        "url": "https://minecraft.wiki/w/Apple",
         "price": "10",
         "stack": "64"
     },
@@ -147,7 +147,7 @@
         "material_id": "golden_apple",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/54/Golden_Apple_JE2_BE2.png",
         "name": "golden apple",
-        "url": "https://minecraft.fandom.com/wiki/Golden_Apple",
+        "url": "https://minecraft.wiki/w/Golden_Apple",
         "price": "250",
         "stack": "64"
     },
@@ -155,7 +155,7 @@
         "material_id": "enchanted_golden_apple",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Enchanted_Golden_Apple_JE2_BE2.gif",
         "name": "enchanted golden apple",
-        "url": "https://minecraft.fandom.com/wiki/Enchanted_Golden_Apple",
+        "url": "https://minecraft.wiki/w/Enchanted_Golden_Apple",
         "price": "500",
         "stack": "64"
     },
@@ -163,7 +163,7 @@
         "material_id": "carrot",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Carrot_JE3_BE2.png",
         "name": "carrot",
-        "url": "https://minecraft.fandom.com/wiki/Carrot",
+        "url": "https://minecraft.wiki/w/Carrot",
         "price": "2",
         "stack": "64"
     },
@@ -171,7 +171,7 @@
         "material_id": "golden_carrot",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/aa/Golden_Carrot_JE4_BE2.png",
         "name": "golden carrot",
-        "url": "https://minecraft.fandom.com/wiki/Golden_Carrot",
+        "url": "https://minecraft.wiki/w/Golden_Carrot",
         "price": "40",
         "stack": "64"
     },
@@ -179,7 +179,7 @@
         "material_id": "potato",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Potato_JE3_BE2.png",
         "name": "potato",
-        "url": "https://minecraft.fandom.com/wiki/Potato",
+        "url": "https://minecraft.wiki/w/Potato",
         "price": "2",
         "stack": "64"
     },
@@ -187,7 +187,7 @@
         "material_id": "baked_potato",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Baked_Potato_JE4_BE2.png",
         "name": "baked potato",
-        "url": "https://minecraft.fandom.com/wiki/Baked_Potato",
+        "url": "https://minecraft.wiki/w/Baked_Potato",
         "price": "3",
         "stack": "64"
     },
@@ -195,7 +195,7 @@
         "material_id": "melon",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f0/Melon_JE2_BE2.png",
         "name": "melon",
-        "url": "https://minecraft.fandom.com/wiki/Melon",
+        "url": "https://minecraft.wiki/w/Melon",
         "price": "16",
         "stack": "64"
     },
@@ -203,7 +203,7 @@
         "material_id": "melon_slice",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Melon_Slice_JE2_BE2.png",
         "name": "melon slice",
-        "url": "https://minecraft.fandom.com/wiki/Melon_Slice",
+        "url": "https://minecraft.wiki/w/Melon_Slice",
         "price": "2",
         "stack": "64"
     },
@@ -211,7 +211,7 @@
         "material_id": "glistering_melon_slice",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e7/Glistering_Melon_Slice_JE3_BE2.png",
         "name": "glistering melon slice",
-        "url": "https://minecraft.fandom.com/wiki/Glistering_Melon_Slice",
+        "url": "https://minecraft.wiki/w/Glistering_Melon_Slice",
         "price": "40",
         "stack": "64"
     },
@@ -219,7 +219,7 @@
         "material_id": "pumpkin",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Pumpkin_JE2_BE2.png",
         "name": "pumpkin",
-        "url": "https://minecraft.fandom.com/wiki/Pumpkin",
+        "url": "https://minecraft.wiki/w/Pumpkin",
         "price": "6",
         "stack": "64"
     },
@@ -227,7 +227,7 @@
         "material_id": "pumpkin_pie",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Pumpkin_Pie_JE2_BE2.png",
         "name": "pumpkin pie",
-        "url": "https://minecraft.fandom.com/wiki/Pumpkin_Pie",
+        "url": "https://minecraft.wiki/w/Pumpkin_Pie",
         "price": "-",
         "stack": "64"
     },
@@ -235,7 +235,7 @@
         "material_id": "beetroot",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Beetroot_JE2_BE2.png",
         "name": "beetroot",
-        "url": "https://minecraft.fandom.com/wiki/Beetroot",
+        "url": "https://minecraft.wiki/w/Beetroot",
         "price": "1",
         "stack": "64"
     },
@@ -243,7 +243,7 @@
         "material_id": "egg",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Egg_JE2_BE2.png",
         "name": "egg",
-        "url": "https://minecraft.fandom.com/wiki/Egg",
+        "url": "https://minecraft.wiki/w/Egg",
         "price": "2",
         "stack": "16"
     },
@@ -251,7 +251,7 @@
         "material_id": "milk",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ca/Milk_Bucket_JE2_BE2.png",
         "name": "milk",
-        "url": "https://minecraft.fandom.com/wiki/Milk",
+        "url": "https://minecraft.wiki/w/Milk",
         "price": "60",
         "stack": "0"
     },
@@ -259,7 +259,7 @@
         "material_id": "cake",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Cake_JE2.png",
         "name": "cake",
-        "url": "https://minecraft.fandom.com/wiki/Cake",
+        "url": "https://minecraft.wiki/w/Cake",
         "price": "?",
         "stack": "0"
     },
@@ -267,7 +267,7 @@
         "material_id": "fermented_spider_eye",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/85/Fermented_Spider_Eye_JE2_BE2.png",
         "name": "fermented spider eye",
-        "url": "https://minecraft.fandom.com/wiki/Fermented_Spider_Eye",
+        "url": "https://minecraft.wiki/w/Fermented_Spider_Eye",
         "price": "-",
         "stack": "64"
     },
@@ -275,7 +275,7 @@
         "material_id": "chorus_fruit",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/33/Chorus_Fruit_JE2_BE2.png",
         "name": "chorus fruit",
-        "url": "https://minecraft.fandom.com/wiki/Chorus_Fruit",
+        "url": "https://minecraft.wiki/w/Chorus_Fruit",
         "price": "5",
         "stack": "64"
     },
@@ -283,7 +283,7 @@
         "material_id": "popped_chorus_fruit",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Popped_Chorus_Fruit_JE2_BE2.png",
         "name": "popped chorus fruit",
-        "url": "https://minecraft.fandom.com/wiki/Popped_Chorus_Fruit",
+        "url": "https://minecraft.wiki/w/Popped_Chorus_Fruit",
         "price": "6",
         "stack": "64"
     },
@@ -291,7 +291,7 @@
         "material_id": "bucket_of_cod",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Bucket_of_Cod_JE2_BE2.png",
         "name": "bucket of cod",
-        "url": "https://minecraft.fandom.com/wiki/Bucket_of_Cod",
+        "url": "https://minecraft.wiki/w/Bucket_of_Cod",
         "price": "63",
         "stack": "0"
     },
@@ -299,7 +299,7 @@
         "material_id": "bucket_of_salmon",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Bucket_of_Salmon_JE2_BE2.png",
         "name": "bucket of salmon",
-        "url": "https://minecraft.fandom.com/wiki/Bucket_of_Salmon",
+        "url": "https://minecraft.wiki/w/Bucket_of_Salmon",
         "price": "64",
         "stack": "0"
     },
@@ -307,7 +307,7 @@
         "material_id": "bucket_of_pufferfish",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Bucket_of_Pufferfish_JE2_BE2.png",
         "name": "bucket of pufferfish",
-        "url": "https://minecraft.fandom.com/wiki/Bucket_of_Pufferfish",
+        "url": "https://minecraft.wiki/w/Bucket_of_Pufferfish",
         "price": "63",
         "stack": "0"
     },
@@ -315,7 +315,7 @@
         "material_id": "bucket_of_tropical_fish",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Bucket_of_Tropical_Fish_JE3_BE2.png",
         "name": "bucket of tropical fish",
-        "url": "https://minecraft.fandom.com/wiki/Bucket_of_Tropical_Fish",
+        "url": "https://minecraft.wiki/w/Bucket_of_Tropical_Fish",
         "price": "63",
         "stack": "0"
     }

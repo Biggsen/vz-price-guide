@@ -3,7 +3,7 @@
         "material_id": "cobblestone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/67/Cobblestone.png",
         "name": "cobblestone",
-        "url": "https://minecraft.fandom.com/wiki/Cobblestone",
+        "url": "https://minecraft.wiki/w/Cobblestone",
         "price": "1",
         "stack": "64"
     },
@@ -11,7 +11,7 @@
         "material_id": "cobblestone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f5/Cobblestone_Slab_JE4_BE3.png",
         "name": "cobblestone slab",
-        "url": "https://minecraft.fandom.com/wiki/Cobblestone_Slab",
+        "url": "https://minecraft.wiki/w/Cobblestone_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -19,7 +19,7 @@
         "material_id": "cobblestone_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/94/Cobblestone_Stairs_%28N%29_JE6_BE6.png",
         "name": "cobblestone stairs",
-        "url": "https://minecraft.fandom.com/wiki/Cobblestone_Stairs",
+        "url": "https://minecraft.wiki/w/Cobblestone_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -27,7 +27,7 @@
         "material_id": "cobblestone_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Cobblestone_Wall_JE2_BE2.png",
         "name": "cobblestone wall",
-        "url": "https://minecraft.fandom.com/wiki/Cobblestone_Wall",
+        "url": "https://minecraft.wiki/w/Cobblestone_Wall",
         "price": "1",
         "stack": "64"
     },
@@ -35,7 +35,7 @@
         "material_id": "stone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Stone.png",
         "name": "stone",
-        "url": "https://minecraft.fandom.com/wiki/Stone",
+        "url": "https://minecraft.wiki/w/Stone",
         "price": "2",
         "stack": "64"
     },
@@ -43,7 +43,7 @@
         "material_id": "stone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Stone_Slab_JE2_BE1.png",
         "name": "stone slab",
-        "url": "https://minecraft.fandom.com/wiki/Stone_Slab",
+        "url": "https://minecraft.wiki/w/Stone_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -51,7 +51,7 @@
         "material_id": "stone_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5c/Stone_Stairs_%28N%29_JE2_BE2.png",
         "name": "stone stairs",
-        "url": "https://minecraft.fandom.com/wiki/Stone_Stairs",
+        "url": "https://minecraft.wiki/w/Stone_Stairs",
         "price": "3",
         "stack": "64"
     },
@@ -59,7 +59,7 @@
         "material_id": "smooth_stone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/Smooth_Stone_JE2_BE2.png",
         "name": "smooth stone",
-        "url": "https://minecraft.fandom.com/wiki/Smooth_Stone",
+        "url": "https://minecraft.wiki/w/Smooth_Stone",
         "price": "3",
         "stack": "64"
     },
@@ -67,7 +67,7 @@
         "material_id": "smooth_stone_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/Smooth_Stone_Slab_JE2_BE2.png",
         "name": "smooth stone slab",
-        "url": "https://minecraft.fandom.com/wiki/Smooth_Stone_Slab",
+        "url": "https://minecraft.wiki/w/Smooth_Stone_Slab",
         "price": "2",
         "stack": "64"
     },
@@ -75,7 +75,7 @@
         "material_id": "andesite",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/28/Andesite_JE3_BE2.png",
         "name": "andesite",
-        "url": "https://minecraft.fandom.com/wiki/Andesite",
+        "url": "https://minecraft.wiki/w/Andesite",
         "price": "1",
         "stack": "64"
     },
@@ -83,7 +83,7 @@
         "material_id": "andesite_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/77/Andesite_Slab_JE2_BE2.png",
         "name": "andesite slab",
-        "url": "https://minecraft.fandom.com/wiki/Andesite_Slab",
+        "url": "https://minecraft.wiki/w/Andesite_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -91,7 +91,7 @@
         "material_id": "andesite_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Andesite_Stairs_%28N%29_JE2_BE1.png",
         "name": "andesite stairs",
-        "url": "https://minecraft.fandom.com/wiki/Andesite_Stairs",
+        "url": "https://minecraft.wiki/w/Andesite_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -99,7 +99,7 @@
         "material_id": "andesite_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4b/Andesite_Wall_JE2_BE1.png",
         "name": "andesite wall",
-        "url": "https://minecraft.fandom.com/wiki/Andesite_Wall",
+        "url": "https://minecraft.wiki/w/Andesite_Wall",
         "price": "1",
         "stack": "64"
     },
@@ -107,7 +107,7 @@
         "material_id": "polished_andesite",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/21/Polished_Andesite_JE2_BE2.png",
         "name": "polished andesite",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Andesite",
+        "url": "https://minecraft.wiki/w/Polished_Andesite",
         "price": "1",
         "stack": "64"
     },
@@ -115,7 +115,7 @@
         "material_id": "polished_andesite_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Polished_Andesite_Slab_JE2_BE2.png",
         "name": "polished andesite slab",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Andesite_Slab",
+        "url": "https://minecraft.wiki/w/Polished_Andesite_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -123,7 +123,7 @@
         "material_id": "polished_andesite_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0d/Polished_Andesite_Stairs_%28N%29_JE2_BE1.png",
         "name": "polished andesite stairs",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Andesite_Stairs",
+        "url": "https://minecraft.wiki/w/Polished_Andesite_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -131,7 +131,7 @@
         "material_id": "diorite",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d7/Diorite_JE4_BE3.png",
         "name": "diorite",
-        "url": "https://minecraft.fandom.com/wiki/Diorite",
+        "url": "https://minecraft.wiki/w/Diorite",
         "price": "1",
         "stack": "64"
     },
@@ -139,7 +139,7 @@
         "material_id": "diorite_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9f/Diorite_Slab_JE3_BE2.png",
         "name": "diorite slab",
-        "url": "https://minecraft.fandom.com/wiki/Diorite_Slab",
+        "url": "https://minecraft.wiki/w/Diorite_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -147,7 +147,7 @@
         "material_id": "diorite_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9a/Diorite_Stairs_%28N%29_JE3_BE2.png",
         "name": "diorite stairs",
-        "url": "https://minecraft.fandom.com/wiki/Diorite_Stairs",
+        "url": "https://minecraft.wiki/w/Diorite_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -155,7 +155,7 @@
         "material_id": "diorite_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a4/Diorite_Wall_JE3_BE1.png",
         "name": "diorite wall",
-        "url": "https://minecraft.fandom.com/wiki/Diorite_Wall",
+        "url": "https://minecraft.wiki/w/Diorite_Wall",
         "price": "1",
         "stack": "64"
     },
@@ -163,7 +163,7 @@
         "material_id": "polished_diorite",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a8/Polished_Diorite_JE2_BE2.png",
         "name": "polished diorite",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Diorite",
+        "url": "https://minecraft.wiki/w/Polished_Diorite",
         "price": "1",
         "stack": "64"
     },
@@ -171,7 +171,7 @@
         "material_id": "polished_diorite_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/af/Polished_Diorite_Slab_JE2_BE2.png",
         "name": "polished diorite slab",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Diorite_Slab",
+        "url": "https://minecraft.wiki/w/Polished_Diorite_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -179,7 +179,7 @@
         "material_id": "polished_diorite_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/06/Polished_Diorite_Stairs_%28N%29_JE2_BE2.png",
         "name": "polished diorite stairs",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Diorite_Stairs",
+        "url": "https://minecraft.wiki/w/Polished_Diorite_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -187,7 +187,7 @@
         "material_id": "granite",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Granite_JE2_BE2.png",
         "name": "granite",
-        "url": "https://minecraft.fandom.com/wiki/Granite",
+        "url": "https://minecraft.wiki/w/Granite",
         "price": "1",
         "stack": "64"
     },
@@ -195,7 +195,7 @@
         "material_id": "granite_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cd/Granite_Slab_JE1_BE1.png",
         "name": "granite slab",
-        "url": "https://minecraft.fandom.com/wiki/Granite_Slab",
+        "url": "https://minecraft.wiki/w/Granite_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -203,7 +203,7 @@
         "material_id": "granite_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Granite_Stairs_%28N%29_JE1_BE1.png",
         "name": "granite stairs",
-        "url": "https://minecraft.fandom.com/wiki/Granite_Stairs",
+        "url": "https://minecraft.wiki/w/Granite_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -211,7 +211,7 @@
         "material_id": "granite_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/59/Granite_Wall_JE1_BE1.png",
         "name": "granite wall",
-        "url": "https://minecraft.fandom.com/wiki/Granite_Wall",
+        "url": "https://minecraft.wiki/w/Granite_Wall",
         "price": "1",
         "stack": "64"
     },
@@ -219,7 +219,7 @@
         "material_id": "polished_granite",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c5/Polished_Granite_JE2_BE2.png",
         "name": "polished granite",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Granite",
+        "url": "https://minecraft.wiki/w/Polished_Granite",
         "price": "1",
         "stack": "64"
     },
@@ -227,7 +227,7 @@
         "material_id": "polished_granite_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/39/Polished_Granite_Slab_JE1_BE1.png",
         "name": "polished granite slab",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Granite_Slab",
+        "url": "https://minecraft.wiki/w/Polished_Granite_Slab",
         "price": "1",
         "stack": "64"
     },
@@ -235,7 +235,7 @@
         "material_id": "polished_granite_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/35/Polished_Granite_Stairs_%28N%29_JE1_BE1.png",
         "name": "polished granite stairs",
-        "url": "https://minecraft.fandom.com/wiki/Polished_Granite_Stairs",
+        "url": "https://minecraft.wiki/w/Polished_Granite_Stairs",
         "price": "2",
         "stack": "64"
     },
@@ -243,7 +243,7 @@
         "material_id": "clay",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Clay_JE2_BE2.png",
         "name": "clay",
-        "url": "https://minecraft.fandom.com/wiki/Clay",
+        "url": "https://minecraft.wiki/w/Clay",
         "price": "12",
         "stack": "64"
     },
@@ -251,7 +251,7 @@
         "material_id": "clay_ball",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Clay_Ball_JE2_BE2.png",
         "name": "clay ball",
-        "url": "https://minecraft.fandom.com/wiki/Clay_Ball",
+        "url": "https://minecraft.wiki/w/Clay_Ball",
         "price": "3",
         "stack": "64"
     },
@@ -259,7 +259,7 @@
         "material_id": "brick",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/32/Brick_JE2_BE2.png",
         "name": "brick",
-        "url": "https://minecraft.fandom.com/wiki/Brick",
+        "url": "https://minecraft.wiki/w/Brick",
         "price": "4",
         "stack": "64"
     },
@@ -267,7 +267,7 @@
         "material_id": "bricks",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png",
         "name": "bricks",
-        "url": "https://minecraft.fandom.com/wiki/Bricks",
+        "url": "https://minecraft.wiki/w/Bricks",
         "price": "16",
         "stack": "64"
     },
@@ -275,7 +275,7 @@
         "material_id": "brick_slab",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/25/Brick_Slab_JE3_BE2.png",
         "name": "brick slab",
-        "url": "https://minecraft.fandom.com/wiki/Brick_Slab",
+        "url": "https://minecraft.wiki/w/Brick_Slab",
         "price": "8",
         "stack": "64"
     },
@@ -283,7 +283,7 @@
         "material_id": "brick_stairs",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/25/Brick_Stairs_%28N%29_JE5_BE2.png",
         "name": "brick stairs",
-        "url": "https://minecraft.fandom.com/wiki/Brick_Stairs",
+        "url": "https://minecraft.wiki/w/Brick_Stairs",
         "price": "24",
         "stack": "64"
     },
@@ -291,7 +291,7 @@
         "material_id": "brick_wall",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c2/Brick_Wall_JE1_BE1.png",
         "name": "brick wall",
-        "url": "https://minecraft.fandom.com/wiki/Brick_Wall",
+        "url": "https://minecraft.wiki/w/Brick_Wall",
         "price": "16",
         "stack": "64"
     }

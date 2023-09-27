@@ -3,7 +3,7 @@
         "material_id": "lantern",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7a/Lantern_JE1_BE1.gif",
         "name": "lantern",
-        "url": "https://minecraft.fandom.com/wiki/Lantern",
+        "url": "https://minecraft.wiki/w/Lantern",
         "price": "18",
         "stack": "64"
     },
@@ -11,7 +11,7 @@
         "material_id": "soul_lantern",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Soul_Lantern_JE2_BE1.gif",
         "name": "soul lantern",
-        "url": "https://minecraft.fandom.com/wiki/Soul_Lantern",
+        "url": "https://minecraft.wiki/w/Soul_Lantern",
         "price": "-",
         "stack": "64"
     },
@@ -19,7 +19,7 @@
         "material_id": "torch",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Torch.gif",
         "name": "torch",
-        "url": "https://minecraft.fandom.com/wiki/Torch",
+        "url": "https://minecraft.wiki/w/Torch",
         "price": "2",
         "stack": "64"
     },
@@ -27,7 +27,7 @@
         "material_id": "soul_torch",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1a/Soul_Torch_BE1.gif",
         "name": "soul torch",
-        "url": "https://minecraft.fandom.com/wiki/Soul_Torch",
+        "url": "https://minecraft.wiki/w/Soul_Torch",
         "price": "-",
         "stack": "64"
     },
@@ -35,7 +35,7 @@
         "material_id": "flint",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/97/Flint_JE3_BE3.png",
         "name": "flint",
-        "url": "https://minecraft.fandom.com/wiki/Flint",
+        "url": "https://minecraft.wiki/w/Flint",
         "price": "2",
         "stack": "64"
     },
@@ -43,7 +43,7 @@
         "material_id": "chest",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Chest.gif",
         "name": "chest",
-        "url": "https://minecraft.fandom.com/wiki/Chest",
+        "url": "https://minecraft.wiki/w/Chest",
         "price": "16",
         "stack": "64"
     },
@@ -51,7 +51,7 @@
         "material_id": "lead",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Lead_JE2_BE2.png",
         "name": "lead",
-        "url": "https://minecraft.fandom.com/wiki/Lead",
+        "url": "https://minecraft.wiki/w/Lead",
         "price": "18",
         "stack": "64"
     },
@@ -59,7 +59,7 @@
         "material_id": "name_tag",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/Name_Tag_JE2_BE2.png",
         "name": "nametag",
-        "url": "https://minecraft.fandom.com/wiki/Name_Tag",
+        "url": "https://minecraft.wiki/w/Name_Tag",
         "price": "50",
         "stack": "64"
     },
@@ -67,7 +67,7 @@
         "material_id": "paper",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Paper_JE2_BE2.png",
         "name": "paper",
-        "url": "https://minecraft.fandom.com/wiki/Paper",
+        "url": "https://minecraft.wiki/w/Paper",
         "price": "-",
         "stack": "64"
     },
@@ -75,7 +75,7 @@
         "material_id": "saddle",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Saddle_JE2_BE2.png",
         "name": "saddle",
-        "url": "https://minecraft.fandom.com/wiki/Saddle",
+        "url": "https://minecraft.wiki/w/Saddle",
         "price": "200",
         "stack": "64"
     },
@@ -83,7 +83,7 @@
         "material_id": "scaffolding",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ce/Standing_Scaffolding_BE2.png",
         "name": "scaffolding",
-        "url": "https://minecraft.fandom.com/wiki/Scaffolding",
+        "url": "https://minecraft.wiki/w/Scaffolding",
         "price": "-",
         "stack": "64"
     },
@@ -91,7 +91,7 @@
         "material_id": "tnt",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a2/TNT_JE3_BE2.png",
         "name": "tnt",
-        "url": "https://minecraft.fandom.com/wiki/TNT",
+        "url": "https://minecraft.wiki/w/TNT",
         "price": "54",
         "stack": "64"
     },
@@ -99,7 +99,7 @@
         "material_id": "bucket",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Bucket_JE2_BE2.png",
         "name": "bucket",
-        "url": "https://minecraft.fandom.com/wiki/Bucket",
+        "url": "https://minecraft.wiki/w/Bucket",
         "price": "60",
         "stack": "16"
     },
@@ -107,7 +107,7 @@
         "material_id": "lava_bucket",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/Lava_Bucket_JE2_BE2.png",
         "name": "lava bucket",
-        "url": "https://minecraft.fandom.com/wiki/Lava_Bucket",
+        "url": "https://minecraft.wiki/w/Lava_Bucket",
         "price": "62",
         "stack": "0"
     },
@@ -115,7 +115,7 @@
         "material_id": "totem_of_undying",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2e/Totem_of_Undying_JE2_BE2.png",
         "name": "totem of undying",
-        "url": "https://minecraft.fandom.com/wiki/Totem_of_Undying",
+        "url": "https://minecraft.wiki/w/Totem_of_Undying",
         "price": "500",
         "stack": "0"
     },
@@ -123,7 +123,7 @@
         "material_id": "crafting_table",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b7/Crafting_Table_JE4_BE3.png",
         "name": "crafting table",
-        "url": "https://minecraft.fandom.com/wiki/Crafting_Table",
+        "url": "https://minecraft.wiki/w/Crafting_Table",
         "price": "8",
         "stack": "64"
     },
@@ -131,7 +131,7 @@
         "material_id": "lectern",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/30/Lectern_Book_JE1_BE1.png",
         "name": "lectern",
-        "url": "https://minecraft.fandom.com/wiki/Lectern",
+        "url": "https://minecraft.wiki/w/Lectern",
         "price": "-",
         "stack": "64"
     },
@@ -139,7 +139,7 @@
         "material_id": "grindstone",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Grindstone_JE2_BE2.png",
         "name": "grindstone",
-        "url": "https://minecraft.fandom.com/wiki/Grindstone",
+        "url": "https://minecraft.wiki/w/Grindstone",
         "price": "8",
         "stack": "64"
     },
@@ -147,7 +147,7 @@
         "material_id": "blast_furnace",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/22/Blast_Furnace_%28S%29_JE1.png",
         "name": "blast furnace",
-        "url": "https://minecraft.fandom.com/wiki/Blast_Furnace",
+        "url": "https://minecraft.wiki/w/Blast_Furnace",
         "price": "116",
         "stack": "64"
     },
@@ -155,7 +155,7 @@
         "material_id": "smoker",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a6/Smoker_%28S%29_JE1.png",
         "name": "smoker",
-        "url": "https://minecraft.fandom.com/wiki/Smoker",
+        "url": "https://minecraft.wiki/w/Smoker",
         "price": "36",
         "stack": "64"
     },
@@ -163,7 +163,7 @@
         "material_id": "fletching_table",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/17/Fletching_Table_JE2_BE1.png",
         "name": "fletching table",
-        "url": "https://minecraft.fandom.com/wiki/Fletching_Table",
+        "url": "https://minecraft.wiki/w/Fletching_Table",
         "price": "12",
         "stack": "64"
     },
@@ -171,7 +171,7 @@
         "material_id": "cartography_table",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Cartography_Table_JE2_BE1.png",
         "name": "cartography table",
-        "url": "https://minecraft.fandom.com/wiki/Cartography_Table",
+        "url": "https://minecraft.wiki/w/Cartography_Table",
         "price": "-",
         "stack": "64"
     },
@@ -179,7 +179,7 @@
         "material_id": "brewing_stand",
         "image": "https://gamepedia.cursecdn.com/minecraft_gamepedia/f/fa/Brewing_Stand.png",
         "name": "brewing stand",
-        "url": "https://minecraft.fandom.com/wiki/Brewing_Stand",
+        "url": "https://minecraft.wiki/w/Brewing_Stand",
         "price": "53",
         "stack": "64"
     },
@@ -187,7 +187,7 @@
         "material_id": "smithing_table",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Smithing_Table_JE2_BE2.png",
         "name": "smithing table",
-        "url": "https://minecraft.fandom.com/wiki/Smithing_Table",
+        "url": "https://minecraft.wiki/w/Smithing_Table",
         "price": "48",
         "stack": "64"
     },
@@ -195,7 +195,7 @@
         "material_id": "cauldron",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c9/Cauldron_JE7.png",
         "name": "cauldron",
-        "url": "https://minecraft.fandom.com/wiki/Cauldron",
+        "url": "https://minecraft.wiki/w/Cauldron",
         "price": "140",
         "stack": "64"
     },
@@ -203,7 +203,7 @@
         "material_id": "barrel",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/21/Barrel_%28U%29_JE1_BE1.png",
         "name": "barrel",
-        "url": "https://minecraft.fandom.com/wiki/Barrel",
+        "url": "https://minecraft.wiki/w/Barrel",
         "price": "14",
         "stack": "64"
     },
@@ -211,7 +211,7 @@
         "material_id": "loom",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d7/Loom_%28S%29_JE1_BE1.png",
         "name": "loom",
-        "url": "https://minecraft.fandom.com/wiki/Loom",
+        "url": "https://minecraft.wiki/w/Loom",
         "price": "8",
         "stack": "64"
     },
@@ -219,7 +219,7 @@
         "material_id": "stonecutter",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Stonecutter_JE2_BE1.gif",
         "name": "stonecutter",
-        "url": "https://minecraft.fandom.com/wiki/Stonecutter",
+        "url": "https://minecraft.wiki/w/Stonecutter",
         "price": "26",
         "stack": "64"
     },
@@ -227,7 +227,7 @@
         "material_id": "composter",
         "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1d/Composter_JE1.png",
         "name": "composter",
-        "url": "https://minecraft.fandom.com/wiki/Composter",
+        "url": "https://minecraft.wiki/w/Composter",
         "price": "8",
         "stack": "64"
     }
